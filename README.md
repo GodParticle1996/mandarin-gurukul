@@ -11,7 +11,9 @@ cd /home/vibekdutta/VixiApps/mandarin-gurukul
 python3 -m http.server 8080
 ```
 
-Open `http://localhost:8080`. No installation or build is needed. Stop with Ctrl+C. On a phone, offline service workers need an HTTPS origin; plain HTTP over a LAN is not equivalent to localhost. No hosting/deployment was performed.
+Open `http://localhost:8080`. No installation or build is needed. Stop with Ctrl+C. On a phone, offline service workers need an HTTPS origin; plain HTTP over a LAN is not equivalent to localhost.
+
+**Live:** https://mandarin-gurukul.vikiisbck.workers.dev — Cloudflare Worker serving the static app from `site/`. Redeploy with `npx wrangler deploy` from this folder; `wrangler.jsonc` runs `tools/build-site.sh` first.
 
 ## What to try
 
