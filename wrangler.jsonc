@@ -1,0 +1,8 @@
+{
+  // Cloudflare Workers static assets (workers.dev), jaise sibling Gurukul apps.
+  // build.command site/ folder banata hai: sirf app ki files, tools/tests/.venv nahi.
+  "name": "mandarin-gurukul",
+  "compatibility_date": "2026-10-01",
+  "build": { "command": "sh tools/build-site.sh" },
+  "assets": { "directory": "./site" }
+}

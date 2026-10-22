@@ -1,0 +1,8 @@
+.venv/
+node_modules/
+*.log
+.fonts/
+shots/
+audio/*.part
+audio-manifest.js.part
+site/

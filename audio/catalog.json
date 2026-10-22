@@ -1,0 +1,7996 @@
+{
+  "schema": 1,
+  "voices": {
+    "female": "zh-CN-XiaoxiaoNeural",
+    "male": "zh-CN-YunxiNeural"
+  },
+  "rates": {
+    "norm": "+0%",
+    "slow": "-25%"
+  },
+  "texts": [
+    {
+      "zh": "WiFi密码是多少？",
+      "pinyin": [
+        "WiFi mìmǎ shì duōshao?"
+      ],
+      "levels": [
+        "trv-04"
+      ],
+      "locations": [
+        "trv-04.phrases.4"
+      ]
+    },
+    {
+      "zh": "一，二，三。",
+      "pinyin": [
+        "Yī, èr, sān."
+      ],
+      "levels": [
+        "bas-04"
+      ],
+      "locations": [
+        "bas-04.phrases.0"
+      ]
+    },
+    {
+      "zh": "一个",
+      "pinyin": [
+        "yí ge"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.phrases.5",
+        "ton-05.stages.0.cards.1.ex.0"
+      ]
+    },
+    {
+      "zh": "一个人",
+      "pinyin": [
+        "Yí ge rén"
+      ],
+      "levels": [
+        "bld-03"
+      ],
+      "locations": [
+        "bld-03.phrases.0"
+      ]
+    },
+    {
+      "zh": "一共一百六十八块。",
+      "pinyin": [
+        "Yígòng yìbǎi liùshíbā kuài."
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "一共多少钱？",
+      "pinyin": [
+        "Yígòng duōshao qián?"
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.phrases.1",
+        "food-08.stages.5.items.0"
+      ]
+    },
+    {
+      "zh": "一半清汤，一半麻辣。",
+      "pinyin": [
+        "Yíbàn qīngtāng, yíbàn málà."
+      ],
+      "levels": [
+        "food-06"
+      ],
+      "locations": [
+        "food-06.phrases.2"
+      ]
+    },
+    {
+      "zh": "一斤多少钱？",
+      "pinyin": [
+        "Yì jīn duōshao qián?"
+      ],
+      "levels": [
+        "shp-01"
+      ],
+      "locations": [
+        "shp-01.phrases.1"
+      ]
+    },
+    {
+      "zh": "一月",
+      "pinyin": [
+        "yīyuè"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.0.cards.2.ex.1"
+      ]
+    },
+    {
+      "zh": "一月一号",
+      "pinyin": [
+        "Yīyuè yī hào"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.phrases.9"
+      ]
+    },
+    {
+      "zh": "一杯",
+      "pinyin": [
+        "yì bēi"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.0.cards.1.ex.3",
+        "ton-05.stages.3.items.7"
+      ]
+    },
+    {
+      "zh": "一杯茶",
+      "pinyin": [
+        "Yì bēi chá"
+      ],
+      "levels": [
+        "bld-03"
+      ],
+      "locations": [
+        "bld-03.phrases.2"
+      ]
+    },
+    {
+      "zh": "一样",
+      "pinyin": [
+        "yíyàng"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.0.cards.1.ex.1",
+        "ton-05.stages.3.items.5"
+      ]
+    },
+    {
+      "zh": "一点儿",
+      "pinyin": [
+        "yìdiǎnr"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.phrases.8",
+        "ton-05.stages.3.items.8"
+      ]
+    },
+    {
+      "zh": "一点儿小心意，希望您喜欢。",
+      "pinyin": [
+        "Yìdiǎnr xiǎo xīnyì, xīwàng nín xǐhuan."
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "一点儿小心意。",
+      "pinyin": [
+        "Yìdiǎnr xiǎo xīnyì."
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.phrases.1"
+      ]
+    },
+    {
+      "zh": "一直走，右转。",
+      "pinyin": [
+        "Yìzhí zǒu, yòu zhuǎn."
+      ],
+      "levels": [
+        "trv-02"
+      ],
+      "locations": [
+        "trv-02.stages.1.lines.3"
+      ]
+    },
+    {
+      "zh": "一直走。",
+      "pinyin": [
+        "Yìzhí zǒu."
+      ],
+      "levels": [
+        "trv-02"
+      ],
+      "locations": [
+        "trv-02.phrases.5"
+      ]
+    },
+    {
+      "zh": "一起",
+      "pinyin": [
+        "yìqǐ",
+        "Yìqǐ"
+      ],
+      "levels": [
+        "ton-05",
+        "ton-08"
+      ],
+      "locations": [
+        "ton-05.stages.0.cards.1.ex.2",
+        "ton-05.stages.3.items.6",
+        "ton-08.stages.0.cards.2.ex.2",
+        "ton-08.stages.5.items.4"
+      ]
+    },
+    {
+      "zh": "一起去吧！",
+      "pinyin": [
+        "Yìqǐ qù ba!"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.phrases.7"
+      ]
+    },
+    {
+      "zh": "七，八，九，十。",
+      "pinyin": [
+        "Qī, bā, jiǔ, shí."
+      ],
+      "levels": [
+        "bas-04"
+      ],
+      "locations": [
+        "bas-04.phrases.2"
+      ]
+    },
+    {
+      "zh": "三十五块。",
+      "pinyin": [
+        "Sānshíwǔ kuài."
+      ],
+      "levels": [
+        "shp-01"
+      ],
+      "locations": [
+        "shp-01.stages.1.lines.3"
+      ]
+    },
+    {
+      "zh": "三张票",
+      "pinyin": [
+        "Sān zhāng piào"
+      ],
+      "levels": [
+        "bld-03"
+      ],
+      "locations": [
+        "bld-03.phrases.4"
+      ]
+    },
+    {
+      "zh": "三点半。",
+      "pinyin": [
+        "Sān diǎn bàn."
+      ],
+      "levels": [
+        "bas-04"
+      ],
+      "locations": [
+        "bas-04.phrases.6"
+      ]
+    },
+    {
+      "zh": "上海",
+      "pinyin": [
+        "Shànghǎi"
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.phrases.6",
+        "ton-08.stages.0.cards.1.ex.2",
+        "ton-08.stages.2.items.6"
+      ]
+    },
+    {
+      "zh": "下一站是哪儿？",
+      "pinyin": [
+        "Xià yí zhàn shì nǎr?"
+      ],
+      "levels": [
+        "trv-03"
+      ],
+      "locations": [
+        "trv-03.phrases.4"
+      ]
+    },
+    {
+      "zh": "下次再来！",
+      "pinyin": [
+        "Xiàcì zài lái!"
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.phrases.4"
+      ]
+    },
+    {
+      "zh": "下次吧。",
+      "pinyin": [
+        "Xià cì ba."
+      ],
+      "levels": [
+        "frd-03"
+      ],
+      "locations": [
+        "frd-03.phrases.6"
+      ]
+    },
+    {
+      "zh": "下雨了。",
+      "pinyin": [
+        "Xià yǔ le."
+      ],
+      "levels": [
+        "snd-03"
+      ],
+      "locations": [
+        "snd-03.phrases.1",
+        "snd-03.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "不吃",
+      "pinyin": [
+        "bù chī"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.3.items.4"
+      ]
+    },
+    {
+      "zh": "不好",
+      "pinyin": [
+        "Bù hǎo",
+        "bù hǎo"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.0.cards.0.ex.2",
+        "ton-05.stages.3.items.2"
+      ]
+    },
+    {
+      "zh": "不好。",
+      "pinyin": [
+        "Bù hǎo."
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.phrases.3"
+      ]
+    },
+    {
+      "zh": "不好意思，现在没有位子。",
+      "pinyin": [
+        "Bù hǎoyìsi, xiànzài méiyǒu wèizi."
+      ],
+      "levels": [
+        "food-01"
+      ],
+      "locations": [
+        "food-01.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "不好意思。",
+      "pinyin": [
+        "Bù hǎoyìsi."
+      ],
+      "levels": [
+        "bas-01"
+      ],
+      "locations": [
+        "bas-01.phrases.6"
+      ]
+    },
+    {
+      "zh": "不客气。",
+      "pinyin": [
+        "Bú kèqi."
+      ],
+      "levels": [
+        "ton-04",
+        "ton-05",
+        "ton-08",
+        "bas-01"
+      ],
+      "locations": [
+        "ton-04.stages.3.lines.3",
+        "ton-05.phrases.2",
+        "ton-08.stages.4.lines.4",
+        "bas-01.phrases.3",
+        "bas-01.stages.1.lines.4"
+      ]
+    },
+    {
+      "zh": "不对",
+      "pinyin": [
+        "bú duì"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.3.items.1"
+      ]
+    },
+    {
+      "zh": "不是",
+      "pinyin": [
+        "Bú shì",
+        "bú shì"
+      ],
+      "levels": [
+        "ton-05",
+        "ton-08"
+      ],
+      "locations": [
+        "ton-05.stages.0.cards.0.ex.0",
+        "ton-05.stages.3.items.0",
+        "ton-08.stages.0.cards.2.ex.1",
+        "ton-08.stages.5.items.3"
+      ]
+    },
+    {
+      "zh": "不是。",
+      "pinyin": [
+        "Bú shì."
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.phrases.0"
+      ]
+    },
+    {
+      "zh": "不来",
+      "pinyin": [
+        "Bù lái",
+        "bù lái"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.0.cards.0.ex.3",
+        "ton-05.stages.3.items.3"
+      ]
+    },
+    {
+      "zh": "不用不用，你是客人。",
+      "pinyin": [
+        "Bú yòng bú yòng, nǐ shì kèrén."
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.phrases.4"
+      ]
+    },
+    {
+      "zh": "不用不用，太客气了！",
+      "pinyin": [
+        "Bú yòng bú yòng, tài kèqi le!"
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.phrases.5"
+      ]
+    },
+    {
+      "zh": "不用了，谢谢！",
+      "pinyin": [
+        "Bú yòng le, xièxie!"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "不用急。",
+      "pinyin": [
+        "Bú yòng jí."
+      ],
+      "levels": [
+        "nth-02"
+      ],
+      "locations": [
+        "nth-02.phrases.6"
+      ]
+    },
+    {
+      "zh": "不累，不累。",
+      "pinyin": [
+        "Bú lèi, bú lèi."
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.phrases.9",
+        "fam-01.stages.2.lines.7"
+      ]
+    },
+    {
+      "zh": "不要",
+      "pinyin": [
+        "Bú yào"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.0.cards.0.ex.1"
+      ]
+    },
+    {
+      "zh": "不要。",
+      "pinyin": [
+        "Bú yào."
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.phrases.1"
+      ]
+    },
+    {
+      "zh": "不要怕。",
+      "pinyin": [
+        "Bú yào pà."
+      ],
+      "levels": [
+        "snd-01"
+      ],
+      "locations": [
+        "snd-01.phrases.6"
+      ]
+    },
+    {
+      "zh": "不要放肉。",
+      "pinyin": [
+        "Bú yào fàng ròu."
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.phrases.6",
+        "food-03.stages.5.items.2"
+      ]
+    },
+    {
+      "zh": "不要肉汤和猪油。",
+      "pinyin": [
+        "Bú yào ròutāng hé zhūyóu."
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.phrases.9"
+      ]
+    },
+    {
+      "zh": "不要辣。",
+      "pinyin": [
+        "Bú yào là."
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.phrases.0"
+      ]
+    },
+    {
+      "zh": "不要香菜。",
+      "pinyin": [
+        "Bú yào xiāngcài."
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.phrases.10"
+      ]
+    },
+    {
+      "zh": "东西",
+      "pinyin": [
+        "dōngxi"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.stages.3.items.1"
+      ]
+    },
+    {
+      "zh": "两个人。",
+      "pinyin": [
+        "Liǎng ge rén."
+      ],
+      "levels": [
+        "bas-04"
+      ],
+      "locations": [
+        "bas-04.phrases.4"
+      ]
+    },
+    {
+      "zh": "两位。",
+      "pinyin": [
+        "Liǎng wèi."
+      ],
+      "levels": [
+        "food-01",
+        "bld-03"
+      ],
+      "locations": [
+        "food-01.phrases.2",
+        "food-01.stages.1.lines.1",
+        "bld-03.phrases.1",
+        "bld-03.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "两碗米饭",
+      "pinyin": [
+        "Liǎng wǎn mǐfàn"
+      ],
+      "levels": [
+        "bld-03"
+      ],
+      "locations": [
+        "bld-03.phrases.3"
+      ]
+    },
+    {
+      "zh": "中午十二点。",
+      "pinyin": [
+        "Zhōngwǔ shí'èr diǎn."
+      ],
+      "levels": [
+        "trv-04"
+      ],
+      "locations": [
+        "trv-04.stages.1.lines.5"
+      ]
+    },
+    {
+      "zh": "中国",
+      "pinyin": [
+        "Zhōngguó"
+      ],
+      "levels": [
+        "ton-07",
+        "snd-02"
+      ],
+      "locations": [
+        "ton-07.phrases.2",
+        "ton-07.stages.0.cards.1.ex.1",
+        "ton-07.stages.2.items.2",
+        "snd-02.phrases.3"
+      ]
+    },
+    {
+      "zh": "书",
+      "pinyin": [
+        "shū"
+      ],
+      "levels": [
+        "ton-02"
+      ],
+      "locations": [
+        "ton-02.phrases.2",
+        "ton-02.stages.0.cards.0.ex.1",
+        "ton-02.stages.0.cards.2.ex.2",
+        "ton-02.stages.2.items.2"
+      ]
+    },
+    {
+      "zh": "买",
+      "pinyin": [
+        "mǎi"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.phrases.5",
+        "ton-03.stages.0.cards.3.ex.0",
+        "ton-03.stages.2.items.4"
+      ]
+    },
+    {
+      "zh": "买东西",
+      "pinyin": [
+        "mǎi dōngxi"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.phrases.6"
+      ]
+    },
+    {
+      "zh": "人",
+      "pinyin": [
+        "rén"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.stages.0.cards.1.ex.3"
+      ]
+    },
+    {
+      "zh": "什么",
+      "pinyin": [
+        "shénme"
+      ],
+      "levels": [
+        "ton-06",
+        "fam-04"
+      ],
+      "locations": [
+        "ton-06.stages.3.items.3",
+        "fam-04.stages.1.cards.0.ex.0"
+      ]
+    },
+    {
+      "zh": "什么意思？",
+      "pinyin": [
+        "Shénme yìsi?"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.phrases.4"
+      ]
+    },
+    {
+      "zh": "今天",
+      "pinyin": [
+        "jīntiān"
+      ],
+      "levels": [
+        "ton-07"
+      ],
+      "locations": [
+        "ton-07.phrases.0",
+        "ton-07.stages.0.cards.1.ex.0",
+        "ton-07.stages.2.items.0"
+      ]
+    },
+    {
+      "zh": "今天吃得很开心。",
+      "pinyin": [
+        "Jīntiān chī de hěn kāixīn."
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.phrases.2",
+        "fam-09.stages.5.items.1"
+      ]
+    },
+    {
+      "zh": "今天我请客！",
+      "pinyin": [
+        "Jīntiān wǒ qǐngkè!"
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "今天晚上六点。",
+      "pinyin": [
+        "Jīntiān wǎnshang liù diǎn."
+      ],
+      "levels": [
+        "bld-03"
+      ],
+      "locations": [
+        "bld-03.phrases.7"
+      ]
+    },
+    {
+      "zh": "今天晚上六点见。",
+      "pinyin": [
+        "Jīntiān wǎnshang liù diǎn jiàn."
+      ],
+      "levels": [
+        "bld-03"
+      ],
+      "locations": [
+        "bld-03.stages.3.items.3"
+      ]
+    },
+    {
+      "zh": "今天真冷。",
+      "pinyin": [
+        "Jīntiān zhēn lěng."
+      ],
+      "levels": [
+        "nth-01"
+      ],
+      "locations": [
+        "nth-01.phrases.4",
+        "nth-01.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "今天真冷啊！",
+      "pinyin": [
+        "Jīntiān zhēn lěng a!"
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.phrases.2"
+      ]
+    },
+    {
+      "zh": "今天真冷啊！屋里真暖和。",
+      "pinyin": [
+        "Jīntiān zhēn lěng a! Wūli zhēn nuǎnhuo."
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "今天还是明天？",
+      "pinyin": [
+        "Jīntiān háishi míngtiān?"
+      ],
+      "levels": [
+        "bas-04"
+      ],
+      "locations": [
+        "bas-04.phrases.7",
+        "bas-04.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "介绍一下你自己吧。",
+      "pinyin": [
+        "Jièshào yíxià nǐ zìjǐ ba."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.phrases.0",
+        "fam-03.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "从几号出口出？",
+      "pinyin": [
+        "Cóng jǐ hào chūkǒu chū?"
+      ],
+      "levels": [
+        "trv-03"
+      ],
+      "locations": [
+        "trv-03.phrases.5"
+      ]
+    },
+    {
+      "zh": "他",
+      "pinyin": [
+        "tā"
+      ],
+      "levels": [
+        "ton-02"
+      ],
+      "locations": [
+        "ton-02.phrases.4",
+        "ton-02.stages.2.items.4"
+      ]
+    },
+    {
+      "zh": "以茶代酒。",
+      "pinyin": [
+        "Yǐ chá dài jiǔ."
+      ],
+      "levels": [
+        "fam-06"
+      ],
+      "locations": [
+        "fam-06.phrases.6",
+        "fam-06.stages.5.items.3"
+      ]
+    },
+    {
+      "zh": "会一点儿，我会做印度菜。",
+      "pinyin": [
+        "Huì yìdiǎnr, wǒ huì zuò Yìndù cài."
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.phrases.7",
+        "fam-04.stages.2.lines.5"
+      ]
+    },
+    {
+      "zh": "伞",
+      "pinyin": [
+        "sǎn"
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.stages.1.cards.1.ex.2"
+      ]
+    },
+    {
+      "zh": "你",
+      "pinyin": [
+        "nǐ"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.stages.0.cards.2.ex.2"
+      ]
+    },
+    {
+      "zh": "你中文说得不错啊！",
+      "pinyin": [
+        "Nǐ Zhōngwén shuō de bú cuò a!"
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.stages.2.lines.6"
+      ]
+    },
+    {
+      "zh": "你今年多大了？",
+      "pinyin": [
+        "Nǐ jīnnián duō dà le?"
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.phrases.1"
+      ]
+    },
+    {
+      "zh": "你们是怎么认识的？",
+      "pinyin": [
+        "Nǐmen shì zěnme rènshi de?"
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.phrases.2",
+        "fam-04.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "你会做饭吗？",
+      "pinyin": [
+        "Nǐ huì zuòfàn ma?"
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.phrases.6",
+        "fam-04.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "你会说中文吗？",
+      "pinyin": [
+        "Nǐ huì shuō Zhōngwén ma?"
+      ],
+      "levels": [
+        "bas-03"
+      ],
+      "locations": [
+        "bas-03.stages.1.lines.3"
+      ]
+    },
+    {
+      "zh": "你会说英语吗？",
+      "pinyin": [
+        "Nǐ huì shuō Yīngyǔ ma?"
+      ],
+      "levels": [
+        "bas-02"
+      ],
+      "locations": [
+        "bas-02.phrases.3"
+      ]
+    },
+    {
+      "zh": "你做什么工作？",
+      "pinyin": [
+        "Nǐ zuò shénme gōngzuò?"
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.phrases.0"
+      ]
+    },
+    {
+      "zh": "你几点来？",
+      "pinyin": [
+        "Nǐ jǐ diǎn lái?"
+      ],
+      "levels": [
+        "bld-01"
+      ],
+      "locations": [
+        "bld-01.phrases.6",
+        "bld-01.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "你去不去？",
+      "pinyin": [
+        "Nǐ qù bu qù?"
+      ],
+      "levels": [
+        "bld-01"
+      ],
+      "locations": [
+        "bld-01.phrases.7"
+      ]
+    },
+    {
+      "zh": "你去哪儿？",
+      "pinyin": [
+        "Nǐ qù nǎr?"
+      ],
+      "levels": [
+        "bld-01",
+        "nth-02"
+      ],
+      "locations": [
+        "bld-01.phrases.4",
+        "nth-02.phrases.0"
+      ]
+    },
+    {
+      "zh": "你叫什么名字？",
+      "pinyin": [
+        "Nǐ jiào shénme míngzi?"
+      ],
+      "levels": [
+        "frd-01"
+      ],
+      "locations": [
+        "frd-01.phrases.1"
+      ]
+    },
+    {
+      "zh": "你吃什么？",
+      "pinyin": [
+        "Nǐ chī shénme?"
+      ],
+      "levels": [
+        "bld-01"
+      ],
+      "locations": [
+        "bld-01.phrases.5",
+        "bld-01.stages.3.items.2"
+      ]
+    },
+    {
+      "zh": "你喜欢中国吗？",
+      "pinyin": [
+        "Nǐ xǐhuan Zhōngguó ma?"
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.phrases.4",
+        "fam-04.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "你喜欢吃饺子吗？",
+      "pinyin": [
+        "Nǐ xǐhuan chī jiǎozi ma?"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "你坐着，我来就行。",
+      "pinyin": [
+        "Nǐ zuò zhe, wǒ lái jiù xíng."
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.phrases.5"
+      ]
+    },
+    {
+      "zh": "你太客气了！",
+      "pinyin": [
+        "Nǐ tài kèqi le!"
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "你好",
+      "pinyin": [
+        "Nǐ hǎo"
+      ],
+      "levels": [
+        "ton-04",
+        "ton-08"
+      ],
+      "locations": [
+        "ton-04.stages.0.cards.1.ex.0",
+        "ton-04.stages.2.items.0",
+        "ton-08.stages.0.cards.2.ex.0",
+        "ton-08.stages.5.items.0"
+      ]
+    },
+    {
+      "zh": "你好，你好！欢迎欢迎！",
+      "pinyin": [
+        "Nǐ hǎo, nǐ hǎo! Huānyíng huānyíng!"
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "你好！",
+      "pinyin": [
+        "Nǐ hǎo!"
+      ],
+      "levels": [
+        "ton-04",
+        "bas-01",
+        "fam-01",
+        "frd-01"
+      ],
+      "locations": [
+        "ton-04.phrases.0",
+        "bas-01.phrases.0",
+        "bas-01.stages.1.lines.1",
+        "fam-01.stages.1.cards.0.ex.1",
+        "frd-01.phrases.0",
+        "frd-01.stages.1.lines.1"
+      ]
+    },
+    {
+      "zh": "你扫我。",
+      "pinyin": [
+        "Nǐ sǎo wǒ."
+      ],
+      "levels": [
+        "shp-02"
+      ],
+      "locations": [
+        "shp-02.stages.1.lines.3"
+      ]
+    },
+    {
+      "zh": "你扫我吧。",
+      "pinyin": [
+        "Nǐ sǎo wǒ ba."
+      ],
+      "levels": [
+        "frd-02"
+      ],
+      "locations": [
+        "frd-02.phrases.2"
+      ]
+    },
+    {
+      "zh": "你收到了吗？",
+      "pinyin": [
+        "Nǐ shōudào le ma?"
+      ],
+      "levels": [
+        "frd-02"
+      ],
+      "locations": [
+        "frd-02.phrases.4"
+      ]
+    },
+    {
+      "zh": "你明天去哪儿？",
+      "pinyin": [
+        "Nǐ míngtiān qù nǎr?"
+      ],
+      "levels": [
+        "bld-01"
+      ],
+      "locations": [
+        "bld-01.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "你是做什么的？",
+      "pinyin": [
+        "Nǐ shì zuò shénme de?"
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "你是印度人吗？",
+      "pinyin": [
+        "Nǐ shì Yìndù rén ma?"
+      ],
+      "levels": [
+        "bld-01"
+      ],
+      "locations": [
+        "bld-01.phrases.3"
+      ]
+    },
+    {
+      "zh": "你是哪国人？",
+      "pinyin": [
+        "Nǐ shì nǎ guó rén?"
+      ],
+      "levels": [
+        "bas-03"
+      ],
+      "locations": [
+        "bas-03.stages.1.lines.0"
+      ]
+    },
+    {
+      "zh": "你是晓雨的朋友吗？",
+      "pinyin": [
+        "Nǐ shì Xiǎoyǔ de péngyou ma?"
+      ],
+      "levels": [
+        "frd-01"
+      ],
+      "locations": [
+        "frd-01.phrases.3"
+      ]
+    },
+    {
+      "zh": "你来过印度吗？",
+      "pinyin": [
+        "Nǐ lái guo Yìndù ma?"
+      ],
+      "levels": [
+        "bas-03"
+      ],
+      "locations": [
+        "bas-03.phrases.7"
+      ]
+    },
+    {
+      "zh": "你看，这是晓雨小时候。",
+      "pinyin": [
+        "Nǐ kàn, zhè shì Xiǎoyǔ xiǎo shíhou."
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "你老家是哪儿的？",
+      "pinyin": [
+        "Nǐ lǎojiā shì nǎr de?"
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "你说什么？听不清楚。",
+      "pinyin": [
+        "Nǐ shuō shénme? Tīng bu qīngchu."
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "八",
+      "pinyin": [
+        "bā"
+      ],
+      "levels": [
+        "ton-01",
+        "ton-02"
+      ],
+      "locations": [
+        "ton-01.stages.2.items.4",
+        "ton-02.phrases.0",
+        "ton-02.stages.0.cards.0.ex.0",
+        "ton-02.stages.0.cards.2.ex.0",
+        "ton-02.stages.2.items.0"
+      ]
+    },
+    {
+      "zh": "八块",
+      "pinyin": [
+        "bā kuài"
+      ],
+      "levels": [
+        "ton-02"
+      ],
+      "locations": [
+        "ton-02.stages.2.items.9"
+      ]
+    },
+    {
+      "zh": "六点在地铁站见。",
+      "pinyin": [
+        "Liù diǎn zài dìtiězhàn jiàn."
+      ],
+      "levels": [
+        "frd-03"
+      ],
+      "locations": [
+        "frd-03.phrases.4",
+        "frd-03.stages.1.lines.4"
+      ]
+    },
+    {
+      "zh": "再吃一点儿吧？",
+      "pinyin": [
+        "Zài chī yìdiǎnr ba?"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "再坐会儿吧，别急着走。",
+      "pinyin": [
+        "Zài zuò huìr ba, bié jí zhe zǒu."
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "再来一个包子吧！",
+      "pinyin": [
+        "Zài lái yí ge bāozi ba!"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "再来一壶茶。",
+      "pinyin": [
+        "Zài lái yì hú chá."
+      ],
+      "levels": [
+        "food-04"
+      ],
+      "locations": [
+        "food-04.phrases.5",
+        "food-04.stages.5.items.2"
+      ]
+    },
+    {
+      "zh": "再来一碗？",
+      "pinyin": [
+        "Zài lái yì wǎn?"
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.stages.2.lines.6"
+      ]
+    },
+    {
+      "zh": "再来点儿土豆和青菜。",
+      "pinyin": [
+        "Zài lái diǎnr tǔdòu hé qīngcài."
+      ],
+      "levels": [
+        "food-06"
+      ],
+      "locations": [
+        "food-06.phrases.6"
+      ]
+    },
+    {
+      "zh": "再见",
+      "pinyin": [
+        "zàijiàn"
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.stages.2.items.7"
+      ]
+    },
+    {
+      "zh": "再见！",
+      "pinyin": [
+        "Zàijiàn!"
+      ],
+      "levels": [
+        "bas-01"
+      ],
+      "locations": [
+        "bas-01.phrases.7",
+        "bas-01.stages.1.lines.5"
+      ]
+    },
+    {
+      "zh": "几位？",
+      "pinyin": [
+        "Jǐ wèi?"
+      ],
+      "levels": [
+        "food-01",
+        "bld-03"
+      ],
+      "locations": [
+        "food-01.phrases.1",
+        "bld-03.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "几点？",
+      "pinyin": [
+        "Jǐ diǎn?"
+      ],
+      "levels": [
+        "snd-02"
+      ],
+      "locations": [
+        "snd-02.phrases.0"
+      ]
+    },
+    {
+      "zh": "几点见？",
+      "pinyin": [
+        "Jǐ diǎn jiàn?"
+      ],
+      "levels": [
+        "frd-03"
+      ],
+      "locations": [
+        "frd-03.phrases.2",
+        "frd-03.stages.1.lines.3"
+      ]
+    },
+    {
+      "zh": "几点退房？",
+      "pinyin": [
+        "Jǐ diǎn tuìfáng?"
+      ],
+      "levels": [
+        "trv-04"
+      ],
+      "locations": [
+        "trv-04.phrases.2",
+        "trv-04.stages.1.lines.4"
+      ]
+    },
+    {
+      "zh": "别客气，来，换双拖鞋。",
+      "pinyin": [
+        "Bié kèqi, lái, huàn shuāng tuōxié."
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "别紧张，把这儿当自己家。",
+      "pinyin": [
+        "Bié jǐnzhāng, bǎ zhèr dāng zìjǐ jiā."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.phrases.8",
+        "fam-03.stages.2.lines.8"
+      ]
+    },
+    {
+      "zh": "到了。",
+      "pinyin": [
+        "Dào le."
+      ],
+      "levels": [
+        "snd-01"
+      ],
+      "locations": [
+        "snd-01.phrases.2"
+      ]
+    },
+    {
+      "zh": "到了吗？",
+      "pinyin": [
+        "Dào le ma?"
+      ],
+      "levels": [
+        "trv-01"
+      ],
+      "locations": [
+        "trv-01.phrases.6"
+      ]
+    },
+    {
+      "zh": "到家了说一声。",
+      "pinyin": [
+        "Dào jiā le shuō yì shēng."
+      ],
+      "levels": [
+        "frd-03"
+      ],
+      "locations": [
+        "frd-03.phrases.7"
+      ]
+    },
+    {
+      "zh": "前面停一下。",
+      "pinyin": [
+        "Qiánmian tíng yíxià."
+      ],
+      "levels": [
+        "trv-01"
+      ],
+      "locations": [
+        "trv-01.phrases.5"
+      ]
+    },
+    {
+      "zh": "加个微信吧。",
+      "pinyin": [
+        "Jiā ge Wēixìn ba."
+      ],
+      "levels": [
+        "frd-02"
+      ],
+      "locations": [
+        "frd-02.phrases.0",
+        "frd-02.stages.1.lines.0"
+      ]
+    },
+    {
+      "zh": "加尔各答",
+      "pinyin": [
+        "Jiā'ěrgèdá"
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.1.cards.1.ex.2"
+      ]
+    },
+    {
+      "zh": "包子",
+      "pinyin": [
+        "Bāozi"
+      ],
+      "levels": [
+        "snd-01",
+        "food-05"
+      ],
+      "locations": [
+        "snd-01.phrases.0",
+        "food-05.phrases.2"
+      ]
+    },
+    {
+      "zh": "包子？",
+      "pinyin": [
+        "Bāozi?"
+      ],
+      "levels": [
+        "snd-01"
+      ],
+      "locations": [
+        "snd-01.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "北京",
+      "pinyin": [
+        "Běijīng"
+      ],
+      "levels": [
+        "ton-08",
+        "snd-03"
+      ],
+      "locations": [
+        "ton-08.phrases.0",
+        "ton-08.stages.0.cards.0.ex.0",
+        "ton-08.stages.2.items.0",
+        "ton-08.stages.5.items.8",
+        "snd-03.phrases.7"
+      ]
+    },
+    {
+      "zh": "北京烤鸭",
+      "pinyin": [
+        "Běijīng kǎoyā"
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.phrases.5"
+      ]
+    },
+    {
+      "zh": "十",
+      "pinyin": [
+        "Shí"
+      ],
+      "levels": [
+        "snd-02"
+      ],
+      "locations": [
+        "snd-02.stages.1.cards.2.ex.0"
+      ]
+    },
+    {
+      "zh": "十四块。",
+      "pinyin": [
+        "Shísì kuài."
+      ],
+      "levels": [
+        "shp-01"
+      ],
+      "locations": [
+        "shp-01.phrases.3"
+      ]
+    },
+    {
+      "zh": "十块。",
+      "pinyin": [
+        "Shí kuài."
+      ],
+      "levels": [
+        "snd-02"
+      ],
+      "locations": [
+        "snd-02.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "卖",
+      "pinyin": [
+        "mài"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.phrases.6",
+        "ton-03.stages.0.cards.3.ex.1",
+        "ton-03.stages.2.items.5"
+      ]
+    },
+    {
+      "zh": "印度",
+      "pinyin": [
+        "Yìndù"
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.phrases.8",
+        "ton-08.stages.0.cards.1.ex.3",
+        "ton-08.stages.2.items.8"
+      ]
+    },
+    {
+      "zh": "去",
+      "pinyin": [
+        "qù"
+      ],
+      "levels": [
+        "ton-02"
+      ],
+      "locations": [
+        "ton-02.phrases.8",
+        "ton-02.stages.0.cards.1.ex.2"
+      ]
+    },
+    {
+      "zh": "去北京站坐几号线？",
+      "pinyin": [
+        "Qù Běijīngzhàn zuò jǐ hào xiàn?"
+      ],
+      "levels": [
+        "trv-03"
+      ],
+      "locations": [
+        "trv-03.phrases.1",
+        "trv-03.stages.1.lines.0"
+      ]
+    },
+    {
+      "zh": "去哪儿？",
+      "pinyin": [
+        "Qù nǎr?"
+      ],
+      "levels": [
+        "trv-01"
+      ],
+      "locations": [
+        "trv-01.stages.1.lines.0"
+      ]
+    },
+    {
+      "zh": "又酸又甜！",
+      "pinyin": [
+        "Yòu suān yòu tián!"
+      ],
+      "levels": [
+        "food-07"
+      ],
+      "locations": [
+        "food-07.phrases.6"
+      ]
+    },
+    {
+      "zh": "叔叔，我敬您一杯，祝您身体健康！",
+      "pinyin": [
+        "Shūshu, wǒ jìng nín yì bēi, zhù nín shēntǐ jiànkāng!"
+      ],
+      "levels": [
+        "fam-06"
+      ],
+      "locations": [
+        "fam-06.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "叔叔好！",
+      "pinyin": [
+        "Shūshu hǎo!"
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.phrases.1"
+      ]
+    },
+    {
+      "zh": "叔叔好！很高兴见到您。",
+      "pinyin": [
+        "Shūshu hǎo! Hěn gāoxìng jiàndào nín."
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "叔叔阿姨先吃。",
+      "pinyin": [
+        "Shūshu Āyí xiān chī."
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.phrases.1",
+        "fam-05.stages.2.lines.1",
+        "fam-05.stages.5.items.0"
+      ]
+    },
+    {
+      "zh": "叔叔阿姨好，我今年二十八岁。",
+      "pinyin": [
+        "Shūshu Āyí hǎo, wǒ jīnnián èrshíbā suì."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "叔叔阿姨好！",
+      "pinyin": [
+        "Shūshu Āyí hǎo!"
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.stages.1.cards.1.ex.0",
+        "fam-01.stages.5.items.1"
+      ]
+    },
+    {
+      "zh": "可以",
+      "pinyin": [
+        "Kěyǐ"
+      ],
+      "levels": [
+        "ton-04"
+      ],
+      "locations": [
+        "ton-04.stages.0.cards.1.ex.2"
+      ]
+    },
+    {
+      "zh": "可以。",
+      "pinyin": [
+        "Kěyǐ."
+      ],
+      "levels": [
+        "ton-04",
+        "snd-01",
+        "shp-02",
+        "bld-02"
+      ],
+      "locations": [
+        "ton-04.phrases.3",
+        "snd-01.phrases.5",
+        "snd-01.stages.2.lines.2",
+        "shp-02.stages.1.lines.1",
+        "bld-02.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "可以刷卡吗？",
+      "pinyin": [
+        "Kěyǐ shuākǎ ma?"
+      ],
+      "levels": [
+        "shp-02"
+      ],
+      "locations": [
+        "shp-02.phrases.4"
+      ]
+    },
+    {
+      "zh": "可以发给我吗？",
+      "pinyin": [
+        "Kěyǐ fā gěi wǒ ma?"
+      ],
+      "levels": [
+        "frd-02"
+      ],
+      "locations": [
+        "frd-02.phrases.7",
+        "frd-02.stages.1.lines.3"
+      ]
+    },
+    {
+      "zh": "可以开发票吗？",
+      "pinyin": [
+        "Kěyǐ kāi fāpiào ma?"
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.phrases.5"
+      ]
+    },
+    {
+      "zh": "可以扫码吗？",
+      "pinyin": [
+        "Kěyǐ sǎomǎ ma?"
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.phrases.2",
+        "food-08.stages.5.items.1"
+      ]
+    },
+    {
+      "zh": "可以用微信吗？",
+      "pinyin": [
+        "Kěyǐ yòng Wēixìn ma?"
+      ],
+      "levels": [
+        "shp-02"
+      ],
+      "locations": [
+        "shp-02.phrases.0",
+        "shp-02.stages.1.lines.0"
+      ]
+    },
+    {
+      "zh": "可以用支付宝吗？",
+      "pinyin": [
+        "Kěyǐ yòng Zhīfùbǎo ma?"
+      ],
+      "levels": [
+        "shp-02"
+      ],
+      "locations": [
+        "shp-02.phrases.1"
+      ]
+    },
+    {
+      "zh": "可是",
+      "pinyin": [
+        "kěshì"
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.stages.2.items.3"
+      ]
+    },
+    {
+      "zh": "右转。",
+      "pinyin": [
+        "Yòu zhuǎn."
+      ],
+      "levels": [
+        "trv-02"
+      ],
+      "locations": [
+        "trv-02.phrases.4"
+      ]
+    },
+    {
+      "zh": "吃",
+      "pinyin": [
+        "chī"
+      ],
+      "levels": [
+        "ton-02"
+      ],
+      "locations": [
+        "ton-02.phrases.6",
+        "ton-02.stages.0.cards.0.ex.2"
+      ]
+    },
+    {
+      "zh": "吃了，您吃饭了吗？",
+      "pinyin": [
+        "Chī le, nín chīfàn le ma?"
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "吃了，您呢？",
+      "pinyin": [
+        "Chī le, nín ne?"
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.stages.1.cards.1.ex.0"
+      ]
+    },
+    {
+      "zh": "吃了。",
+      "pinyin": [
+        "Chī le."
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.stages.0.cards.2.ex.2"
+      ]
+    },
+    {
+      "zh": "吃了没？",
+      "pinyin": [
+        "Chī le méi?"
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.phrases.9"
+      ]
+    },
+    {
+      "zh": "吃米饭吗？",
+      "pinyin": [
+        "Chī mǐfàn ma?"
+      ],
+      "levels": [
+        "snd-03"
+      ],
+      "locations": [
+        "snd-03.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "吃辣吗？",
+      "pinyin": [
+        "Chī là ma?"
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "吃饭",
+      "pinyin": [
+        "chīfàn",
+        "Chīfàn"
+      ],
+      "levels": [
+        "ton-02",
+        "ton-07",
+        "snd-02"
+      ],
+      "locations": [
+        "ton-02.stages.2.items.8",
+        "ton-07.phrases.4",
+        "ton-07.stages.0.cards.1.ex.3",
+        "ton-07.stages.2.items.4",
+        "snd-02.phrases.4"
+      ]
+    },
+    {
+      "zh": "吗",
+      "pinyin": [
+        "ma"
+      ],
+      "levels": [
+        "ton-01",
+        "ton-06"
+      ],
+      "locations": [
+        "ton-01.phrases.4",
+        "ton-06.stages.0.cards.0.ex.0"
+      ]
+    },
+    {
+      "zh": "吧",
+      "pinyin": [
+        "ba"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.stages.0.cards.0.ex.1"
+      ]
+    },
+    {
+      "zh": "听得见，听得见！叔叔好！祝您生日快乐！",
+      "pinyin": [
+        "Tīng de jiàn, tīng de jiàn! Shūshu hǎo! Zhù nín shēngrì kuàilè!"
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "听得见吗？",
+      "pinyin": [
+        "Tīng de jiàn ma?"
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.phrases.1"
+      ]
+    },
+    {
+      "zh": "味道不错。",
+      "pinyin": [
+        "Wèidao búcuò."
+      ],
+      "levels": [
+        "food-07"
+      ],
+      "locations": [
+        "food-07.phrases.8"
+      ]
+    },
+    {
+      "zh": "味道怎么样？",
+      "pinyin": [
+        "Wèidao zěnmeyàng?"
+      ],
+      "levels": [
+        "food-07"
+      ],
+      "locations": [
+        "food-07.phrases.0",
+        "food-07.stages.1.lines.0"
+      ]
+    },
+    {
+      "zh": "咋办？",
+      "pinyin": [
+        "Zǎ bàn?"
+      ],
+      "levels": [
+        "nth-02"
+      ],
+      "locations": [
+        "nth-02.phrases.4"
+      ]
+    },
+    {
+      "zh": "咖啡",
+      "pinyin": [
+        "kāfēi"
+      ],
+      "levels": [
+        "ton-07"
+      ],
+      "locations": [
+        "ton-07.phrases.1",
+        "ton-07.stages.2.items.1"
+      ]
+    },
+    {
+      "zh": "哈哈，谢谢！你吃饭了吗？",
+      "pinyin": [
+        "Hāhā, xièxie! Nǐ chīfàn le ma?"
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "哎呀，我老了。",
+      "pinyin": [
+        "Āiyā, wǒ lǎo le."
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.stages.1.cards.1.ex.0",
+        "fam-07.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "唠嗑",
+      "pinyin": [
+        "Làokē"
+      ],
+      "levels": [
+        "nth-02"
+      ],
+      "locations": [
+        "nth-02.phrases.2"
+      ]
+    },
+    {
+      "zh": "唠嗑。",
+      "pinyin": [
+        "Làokē."
+      ],
+      "levels": [
+        "nth-02"
+      ],
+      "locations": [
+        "nth-02.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "喂？",
+      "pinyin": [
+        "Wèi?"
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.phrases.0"
+      ]
+    },
+    {
+      "zh": "喂？喂？听得见吗？",
+      "pinyin": [
+        "Wèi? Wèi? Tīng de jiàn ma?"
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "喜欢",
+      "pinyin": [
+        "xǐhuan"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.phrases.7",
+        "ton-06.stages.3.items.5"
+      ]
+    },
+    {
+      "zh": "喜欢！",
+      "pinyin": [
+        "Xǐhuan!"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "喝",
+      "pinyin": [
+        "hē"
+      ],
+      "levels": [
+        "ton-02"
+      ],
+      "locations": [
+        "ton-02.phrases.7"
+      ]
+    },
+    {
+      "zh": "喝水",
+      "pinyin": [
+        "hē shuǐ",
+        "Hē shuǐ"
+      ],
+      "levels": [
+        "ton-07",
+        "snd-03"
+      ],
+      "locations": [
+        "ton-07.phrases.3",
+        "ton-07.stages.0.cards.1.ex.2",
+        "ton-07.stages.2.items.3",
+        "snd-03.phrases.4"
+      ]
+    },
+    {
+      "zh": "喝点儿什么？",
+      "pinyin": [
+        "Hē diǎnr shénme?"
+      ],
+      "levels": [
+        "food-04"
+      ],
+      "locations": [
+        "food-04.phrases.0",
+        "food-04.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "嘎哈呢？",
+      "pinyin": [
+        "Gà hā ne?"
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.phrases.8"
+      ]
+    },
+    {
+      "zh": "嘎哈呢？吃了没？",
+      "pinyin": [
+        "Gà hā ne? Chī le méi?"
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.stages.2.lines.6"
+      ]
+    },
+    {
+      "zh": "四",
+      "pinyin": [
+        "Sì",
+        "sì"
+      ],
+      "levels": [
+        "snd-02",
+        "fam-02"
+      ],
+      "locations": [
+        "snd-02.stages.1.cards.2.ex.1",
+        "fam-02.stages.1.cards.1.ex.3"
+      ]
+    },
+    {
+      "zh": "四，五，六。",
+      "pinyin": [
+        "Sì, wǔ, liù."
+      ],
+      "levels": [
+        "bas-04"
+      ],
+      "locations": [
+        "bas-04.phrases.1"
+      ]
+    },
+    {
+      "zh": "四十块。",
+      "pinyin": [
+        "Sìshí kuài."
+      ],
+      "levels": [
+        "shp-01"
+      ],
+      "locations": [
+        "shp-01.phrases.2",
+        "shp-01.stages.1.lines.1"
+      ]
+    },
+    {
+      "zh": "回家",
+      "pinyin": [
+        "huí jiā"
+      ],
+      "levels": [
+        "ton-07"
+      ],
+      "locations": [
+        "ton-07.phrases.6"
+      ]
+    },
+    {
+      "zh": "在哪儿换乘？",
+      "pinyin": [
+        "Zài nǎr huànchéng?"
+      ],
+      "levels": [
+        "trv-03"
+      ],
+      "locations": [
+        "trv-03.phrases.2",
+        "trv-03.stages.1.lines.4"
+      ]
+    },
+    {
+      "zh": "在哪儿见？",
+      "pinyin": [
+        "Zài nǎr jiàn?"
+      ],
+      "levels": [
+        "frd-03"
+      ],
+      "locations": [
+        "frd-03.phrases.3"
+      ]
+    },
+    {
+      "zh": "在这儿。",
+      "pinyin": [
+        "Zài zhèr."
+      ],
+      "levels": [
+        "nth-02"
+      ],
+      "locations": [
+        "nth-02.phrases.1"
+      ]
+    },
+    {
+      "zh": "在那边，往前走。",
+      "pinyin": [
+        "Zài nàbiān, wǎng qián zǒu."
+      ],
+      "levels": [
+        "ton-04"
+      ],
+      "locations": [
+        "ton-04.stages.3.lines.1"
+      ]
+    },
+    {
+      "zh": "地三鲜",
+      "pinyin": [
+        "Dìsānxiān"
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.phrases.7"
+      ]
+    },
+    {
+      "zh": "地铁站在哪儿？",
+      "pinyin": [
+        "Dìtiězhàn zài nǎr?"
+      ],
+      "levels": [
+        "trv-03"
+      ],
+      "locations": [
+        "trv-03.phrases.0"
+      ]
+    },
+    {
+      "zh": "多久",
+      "pinyin": [
+        "duō jiǔ"
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.stages.1.cards.0.ex.3"
+      ]
+    },
+    {
+      "zh": "多吃点儿，来，再吃一块排骨！",
+      "pinyin": [
+        "Duō chī diǎnr, lái, zài chī yí kuài páigǔ!"
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "多大",
+      "pinyin": [
+        "duō dà"
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.stages.1.cards.0.ex.1"
+      ]
+    },
+    {
+      "zh": "多少钱？",
+      "pinyin": [
+        "Duōshao qián?"
+      ],
+      "levels": [
+        "snd-02"
+      ],
+      "locations": [
+        "snd-02.phrases.5",
+        "snd-02.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "够了，谢谢。",
+      "pinyin": [
+        "Gòu le, xièxie."
+      ],
+      "levels": [
+        "snd-01"
+      ],
+      "locations": [
+        "snd-01.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "够了。",
+      "pinyin": [
+        "Gòu le."
+      ],
+      "levels": [
+        "snd-01"
+      ],
+      "locations": [
+        "snd-01.phrases.4"
+      ]
+    },
+    {
+      "zh": "够了够了，我吃饱了，谢谢阿姨！",
+      "pinyin": [
+        "Gòu le gòu le, wǒ chībǎo le, xièxie Āyí!"
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.stages.2.lines.7"
+      ]
+    },
+    {
+      "zh": "够了够了，谢谢阿姨！",
+      "pinyin": [
+        "Gòu le gòu le, xièxie Āyí!"
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.phrases.8"
+      ]
+    },
+    {
+      "zh": "大",
+      "pinyin": [
+        "dà"
+      ],
+      "levels": [
+        "ton-02"
+      ],
+      "locations": [
+        "ton-02.phrases.5",
+        "ton-02.stages.2.items.5"
+      ]
+    },
+    {
+      "zh": "大学",
+      "pinyin": [
+        "dàxué"
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.phrases.5",
+        "ton-08.stages.0.cards.1.ex.1",
+        "ton-08.stages.2.items.5"
+      ]
+    },
+    {
+      "zh": "大概二十分钟。",
+      "pinyin": [
+        "Dàgài èrshí fēnzhōng."
+      ],
+      "levels": [
+        "trv-01"
+      ],
+      "locations": [
+        "trv-01.stages.1.lines.4"
+      ]
+    },
+    {
+      "zh": "大概要多长时间？",
+      "pinyin": [
+        "Dàgài yào duō cháng shíjiān?"
+      ],
+      "levels": [
+        "trv-01"
+      ],
+      "locations": [
+        "trv-01.phrases.3",
+        "trv-01.stages.1.lines.3"
+      ]
+    },
+    {
+      "zh": "太好了！",
+      "pinyin": [
+        "Tài hǎo le!"
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.stages.1.lines.5"
+      ]
+    },
+    {
+      "zh": "太好吃了！",
+      "pinyin": [
+        "Tài hǎochī le!"
+      ],
+      "levels": [
+        "food-07"
+      ],
+      "locations": [
+        "food-07.phrases.2",
+        "food-07.stages.1.lines.1"
+      ]
+    },
+    {
+      "zh": "太贵了。",
+      "pinyin": [
+        "Tài guì le."
+      ],
+      "levels": [
+        "snd-01",
+        "shp-01"
+      ],
+      "locations": [
+        "snd-01.phrases.3",
+        "shp-01.phrases.4"
+      ]
+    },
+    {
+      "zh": "太辣了！",
+      "pinyin": [
+        "Tài là le!"
+      ],
+      "levels": [
+        "food-07"
+      ],
+      "locations": [
+        "food-07.phrases.5"
+      ]
+    },
+    {
+      "zh": "好",
+      "pinyin": [
+        "hǎo"
+      ],
+      "levels": [
+        "ton-03",
+        "ton-04"
+      ],
+      "locations": [
+        "ton-03.stages.0.cards.2.ex.0",
+        "ton-03.stages.2.items.7",
+        "ton-04.stages.0.cards.0.ex.0"
+      ]
+    },
+    {
+      "zh": "好，你帮我拿一下碗吧。",
+      "pinyin": [
+        "Hǎo, nǐ bāng wǒ ná yíxià wǎn ba."
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "好，六点见！",
+      "pinyin": [
+        "Hǎo, liù diǎn jiàn!"
+      ],
+      "levels": [
+        "frd-03"
+      ],
+      "locations": [
+        "frd-03.stages.1.lines.5"
+      ]
+    },
+    {
+      "zh": "好，再来一个拍黄瓜吧。",
+      "pinyin": [
+        "Hǎo, zài lái yí ge pāi huánggua ba."
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.stages.1.lines.4"
+      ]
+    },
+    {
+      "zh": "好，再来一壶茶。",
+      "pinyin": [
+        "Hǎo, zài lái yì hú chá."
+      ],
+      "levels": [
+        "food-04"
+      ],
+      "locations": [
+        "food-04.stages.2.lines.6"
+      ]
+    },
+    {
+      "zh": "好，喝绿茶。",
+      "pinyin": [
+        "Hǎo, hē lǜchá."
+      ],
+      "levels": [
+        "snd-03"
+      ],
+      "locations": [
+        "snd-03.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "好，我吃一个。",
+      "pinyin": [
+        "Hǎo, wǒ chī yí ge."
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "好，我要这个。",
+      "pinyin": [
+        "Hǎo, wǒ yào zhège."
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "好，明天见！",
+      "pinyin": [
+        "Hǎo, míngtiān jiàn!"
+      ],
+      "levels": [
+        "bas-04"
+      ],
+      "locations": [
+        "bas-04.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "好，来两碗米饭。",
+      "pinyin": [
+        "Hǎo, lái liǎng wǎn mǐfàn."
+      ],
+      "levels": [
+        "food-07"
+      ],
+      "locations": [
+        "food-07.stages.1.lines.5"
+      ]
+    },
+    {
+      "zh": "好，谢谢。",
+      "pinyin": [
+        "Hǎo, xièxie."
+      ],
+      "levels": [
+        "nth-02"
+      ],
+      "locations": [
+        "nth-02.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "好，那你慢慢吃。",
+      "pinyin": [
+        "Hǎo, nà nǐ mànmàn chī."
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.stages.2.lines.8"
+      ]
+    },
+    {
+      "zh": "好！主食呢？饺子还是馒头？",
+      "pinyin": [
+        "Hǎo! Zhǔshí ne? Jiǎozi háishi mántou?"
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "好。",
+      "pinyin": [
+        "Hǎo."
+      ],
+      "levels": [
+        "trv-01"
+      ],
+      "locations": [
+        "trv-01.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "好吃",
+      "pinyin": [
+        "hǎochī"
+      ],
+      "levels": [
+        "ton-04"
+      ],
+      "locations": [
+        "ton-04.stages.0.cards.0.ex.1",
+        "ton-04.stages.0.cards.3.ex.0",
+        "ton-04.stages.2.items.5"
+      ]
+    },
+    {
+      "zh": "好吃！",
+      "pinyin": [
+        "Hǎochī!"
+      ],
+      "levels": [
+        "ton-04",
+        "ton-05",
+        "food-07"
+      ],
+      "locations": [
+        "ton-04.phrases.7",
+        "ton-05.stages.2.lines.5",
+        "food-07.phrases.1"
+      ]
+    },
+    {
+      "zh": "好吃吗？",
+      "pinyin": [
+        "Hǎochī ma?"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "好吗？",
+      "pinyin": [
+        "Hǎo ma?"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.phrases.9",
+        "ton-06.stages.0.cards.2.ex.0"
+      ]
+    },
+    {
+      "zh": "好吧好吧，下次再来！",
+      "pinyin": [
+        "Hǎo ba hǎo ba, xiàcì zài lái!"
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "好啊，下次我做给你们尝尝！",
+      "pinyin": [
+        "Hǎo a, xiàcì wǒ zuò gěi nǐmen chángchang!"
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.stages.2.lines.7"
+      ]
+    },
+    {
+      "zh": "好啊！",
+      "pinyin": [
+        "Hǎo a!"
+      ],
+      "levels": [
+        "frd-02",
+        "frd-03"
+      ],
+      "locations": [
+        "frd-02.stages.1.lines.2",
+        "frd-03.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "好好好，吃，吃！",
+      "pinyin": [
+        "Hǎo hǎo hǎo, chī, chī!"
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "好孩子！",
+      "pinyin": [
+        "Hǎo háizi!"
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.stages.2.lines.8"
+      ]
+    },
+    {
+      "zh": "好烫！",
+      "pinyin": [
+        "Hǎo tàng!"
+      ],
+      "levels": [
+        "food-06"
+      ],
+      "locations": [
+        "food-06.phrases.8",
+        "food-06.stages.1.lines.7"
+      ]
+    },
+    {
+      "zh": "好玩儿",
+      "pinyin": [
+        "hǎowánr"
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.phrases.1",
+        "ton-08.stages.0.cards.0.ex.1",
+        "ton-08.stages.2.items.1"
+      ]
+    },
+    {
+      "zh": "好的，一定！",
+      "pinyin": [
+        "Hǎo de, yídìng!"
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.phrases.5"
+      ]
+    },
+    {
+      "zh": "好的，一定！谢谢款待，今天吃得很开心。",
+      "pinyin": [
+        "Hǎo de, yídìng! Xièxie kuǎndài, jīntiān chī de hěn kāixīn."
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "好的，一瓶十五块。",
+      "pinyin": [
+        "Hǎo de, yì píng shíwǔ kuài."
+      ],
+      "levels": [
+        "food-04"
+      ],
+      "locations": [
+        "food-04.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "好的，不放牛肉。",
+      "pinyin": [
+        "Hǎo de, bú fàng niúròu."
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "好的，我们会注意。",
+      "pinyin": [
+        "Hǎo de, wǒmen huì zhùyì."
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.stages.2.lines.6"
+      ]
+    },
+    {
+      "zh": "好的，我来。",
+      "pinyin": [
+        "Hǎo de, wǒ lái."
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "好的，请稍等。",
+      "pinyin": [
+        "Hǎo de, qǐng shāo děng."
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.stages.2.lines.6"
+      ]
+    },
+    {
+      "zh": "好的，请等一下。",
+      "pinyin": [
+        "Hǎo de, qǐng děng yíxià."
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.stages.4.lines.2"
+      ]
+    },
+    {
+      "zh": "好的，还要别的吗？",
+      "pinyin": [
+        "Hǎo de, hái yào bié de ma?"
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "好的！叔叔阿姨再见！",
+      "pinyin": [
+        "Hǎo de! Shūshu Āyí zàijiàn!"
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.stages.2.lines.9"
+      ]
+    },
+    {
+      "zh": "好的！走吧！",
+      "pinyin": [
+        "Hǎo de! Zǒu ba!"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "好的。",
+      "pinyin": [
+        "Hǎo de."
+      ],
+      "levels": [
+        "ton-06",
+        "bld-02",
+        "bld-03"
+      ],
+      "locations": [
+        "ton-06.stages.0.cards.2.ex.3",
+        "bld-02.stages.2.lines.3",
+        "bld-03.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "好的。微信还是支付宝？",
+      "pinyin": [
+        "Hǎo de. Wēixìn háishi Zhīfùbǎo?"
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.stages.2.lines.6"
+      ]
+    },
+    {
+      "zh": "妈",
+      "pinyin": [
+        "mā"
+      ],
+      "levels": [
+        "ton-01"
+      ],
+      "locations": [
+        "ton-01.phrases.0",
+        "ton-01.stages.0.cards.1.ex.0",
+        "ton-01.stages.2.items.0"
+      ]
+    },
+    {
+      "zh": "妈妈",
+      "pinyin": [
+        "māma",
+        "Māma"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.phrases.1",
+        "ton-06.stages.0.cards.1.ex.0",
+        "ton-06.stages.3.items.0"
+      ]
+    },
+    {
+      "zh": "妈妈骂马吗？",
+      "pinyin": [
+        "Māma mà mǎ ma?"
+      ],
+      "levels": [
+        "ton-01"
+      ],
+      "locations": [
+        "ton-01.phrases.5"
+      ]
+    },
+    {
+      "zh": "姑娘长得真漂亮！",
+      "pinyin": [
+        "Gūniang zhǎng de zhēn piàoliang!"
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.phrases.6.f"
+      ]
+    },
+    {
+      "zh": "孟买",
+      "pinyin": [
+        "Mèngmǎi"
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.1.cards.1.ex.1"
+      ]
+    },
+    {
+      "zh": "学习",
+      "pinyin": [
+        "xuéxí"
+      ],
+      "levels": [
+        "ton-07"
+      ],
+      "locations": [
+        "ton-07.phrases.7",
+        "ton-07.stages.0.cards.2.ex.1",
+        "ton-07.stages.2.items.6"
+      ]
+    },
+    {
+      "zh": "家里有几口人啊？",
+      "pinyin": [
+        "Jiālǐ yǒu jǐ kǒu rén a?"
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.2.lines.6"
+      ]
+    },
+    {
+      "zh": "对",
+      "pinyin": [
+        "duì"
+      ],
+      "levels": [
+        "ton-02"
+      ],
+      "locations": [
+        "ton-02.phrases.9"
+      ]
+    },
+    {
+      "zh": "对，东北菜有点儿咸。来一碗米饭吧！",
+      "pinyin": [
+        "Duì, Dōngběi cài yǒudiǎnr xián. Lái yì wǎn mǐfàn ba!"
+      ],
+      "levels": [
+        "food-07"
+      ],
+      "locations": [
+        "food-07.stages.1.lines.4"
+      ]
+    },
+    {
+      "zh": "对不起，碗碎了！",
+      "pinyin": [
+        "Duìbuqǐ, wǎn suì le!"
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "对不起，碗碎了。",
+      "pinyin": [
+        "Duìbuqǐ, wǎn suì le."
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.phrases.7",
+        "fam-08.stages.5.items.2"
+      ]
+    },
+    {
+      "zh": "对不起！",
+      "pinyin": [
+        "Duìbuqǐ!"
+      ],
+      "levels": [
+        "bas-01"
+      ],
+      "locations": [
+        "bas-01.phrases.4"
+      ]
+    },
+    {
+      "zh": "小伙子长得真精神！",
+      "pinyin": [
+        "Xiǎohuǒzi zhǎng de zhēn jīngshen!"
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.phrases.6"
+      ]
+    },
+    {
+      "zh": "小心一点儿。",
+      "pinyin": [
+        "Xiǎoxīn yìdiǎnr."
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "小心烫！",
+      "pinyin": [
+        "Xiǎoxīn tàng!"
+      ],
+      "levels": [
+        "food-06"
+      ],
+      "locations": [
+        "food-06.phrases.9",
+        "food-06.stages.1.lines.4"
+      ]
+    },
+    {
+      "zh": "少油。",
+      "pinyin": [
+        "Shǎo yóu."
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.phrases.11"
+      ]
+    },
+    {
+      "zh": "少糖",
+      "pinyin": [
+        "shǎo táng"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.stages.2.items.8"
+      ]
+    },
+    {
+      "zh": "就这些。",
+      "pinyin": [
+        "Jiù zhèxiē."
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.phrases.8"
+      ]
+    },
+    {
+      "zh": "屋里真暖和！",
+      "pinyin": [
+        "Wūli zhēn nuǎnhuo!"
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.phrases.3"
+      ]
+    },
+    {
+      "zh": "左转。",
+      "pinyin": [
+        "Zuǒ zhuǎn."
+      ],
+      "levels": [
+        "trv-02"
+      ],
+      "locations": [
+        "trv-02.phrases.3"
+      ]
+    },
+    {
+      "zh": "师傅",
+      "pinyin": [
+        "shīfu"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.phrases.2",
+        "ton-06.stages.3.items.9"
+      ]
+    },
+    {
+      "zh": "师傅，您好！",
+      "pinyin": [
+        "Shīfu, nín hǎo!"
+      ],
+      "levels": [
+        "trv-01"
+      ],
+      "locations": [
+        "trv-01.phrases.0"
+      ]
+    },
+    {
+      "zh": "希望您喜欢。",
+      "pinyin": [
+        "Xīwàng nín xǐhuan."
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.phrases.6"
+      ]
+    },
+    {
+      "zh": "干杯！",
+      "pinyin": [
+        "Gānbēi!"
+      ],
+      "levels": [
+        "fam-06"
+      ],
+      "locations": [
+        "fam-06.phrases.3"
+      ]
+    },
+    {
+      "zh": "往前走，右转。",
+      "pinyin": [
+        "Wǎng qián zǒu, yòu zhuǎn."
+      ],
+      "levels": [
+        "trv-02"
+      ],
+      "locations": [
+        "trv-02.stages.1.lines.1"
+      ]
+    },
+    {
+      "zh": "往前走。",
+      "pinyin": [
+        "Wǎng qián zǒu."
+      ],
+      "levels": [
+        "trv-02"
+      ],
+      "locations": [
+        "trv-02.phrases.2"
+      ]
+    },
+    {
+      "zh": "很",
+      "pinyin": [
+        "hěn"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.stages.0.cards.2.ex.3"
+      ]
+    },
+    {
+      "zh": "很好",
+      "pinyin": [
+        "Hěn hǎo"
+      ],
+      "levels": [
+        "ton-04"
+      ],
+      "locations": [
+        "ton-04.stages.0.cards.1.ex.1",
+        "ton-04.stages.2.items.1"
+      ]
+    },
+    {
+      "zh": "很好。",
+      "pinyin": [
+        "Hěn hǎo."
+      ],
+      "levels": [
+        "ton-04"
+      ],
+      "locations": [
+        "ton-04.phrases.1"
+      ]
+    },
+    {
+      "zh": "很忙",
+      "pinyin": [
+        "hěn máng"
+      ],
+      "levels": [
+        "ton-04"
+      ],
+      "locations": [
+        "ton-04.stages.0.cards.0.ex.2",
+        "ton-04.stages.0.cards.3.ex.1",
+        "ton-04.stages.2.items.6"
+      ]
+    },
+    {
+      "zh": "很忙。",
+      "pinyin": [
+        "Hěn máng."
+      ],
+      "levels": [
+        "ton-04"
+      ],
+      "locations": [
+        "ton-04.phrases.8"
+      ]
+    },
+    {
+      "zh": "很暖和。",
+      "pinyin": [
+        "Hěn nuǎnhuo."
+      ],
+      "levels": [
+        "nth-01"
+      ],
+      "locations": [
+        "nth-01.phrases.5"
+      ]
+    },
+    {
+      "zh": "很香！",
+      "pinyin": [
+        "Hěn xiāng!"
+      ],
+      "levels": [
+        "food-07"
+      ],
+      "locations": [
+        "food-07.phrases.3"
+      ]
+    },
+    {
+      "zh": "很高兴见到您。",
+      "pinyin": [
+        "Hěn gāoxìng jiàndào nín."
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.phrases.4",
+        "fam-01.stages.5.items.0"
+      ]
+    },
+    {
+      "zh": "很高兴认识你！",
+      "pinyin": [
+        "Hěn gāoxìng rènshi nǐ!"
+      ],
+      "levels": [
+        "bas-03",
+        "frd-01"
+      ],
+      "locations": [
+        "bas-03.phrases.6",
+        "frd-01.phrases.4",
+        "frd-01.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "微信还是支付宝？",
+      "pinyin": [
+        "Wēixìn háishi Zhīfùbǎo?"
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.phrases.3"
+      ]
+    },
+    {
+      "zh": "微辣。",
+      "pinyin": [
+        "Wēi là."
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.phrases.1",
+        "food-03.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "德里",
+      "pinyin": [
+        "Délǐ"
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.1.cards.1.ex.0"
+      ]
+    },
+    {
+      "zh": "快坐，外面冷吧？",
+      "pinyin": [
+        "Kuài zuò, wàimian lěng ba?"
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "快请进！",
+      "pinyin": [
+        "Kuài qǐng jìn!"
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.phrases.6",
+        "fam-01.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "快请进。",
+      "pinyin": [
+        "Kuài qǐng jìn."
+      ],
+      "levels": [
+        "nth-01"
+      ],
+      "locations": [
+        "nth-01.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "怎么",
+      "pinyin": [
+        "zěnme"
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.stages.1.cards.0.ex.2"
+      ]
+    },
+    {
+      "zh": "怎么了？",
+      "pinyin": [
+        "Zěnme le?"
+      ],
+      "levels": [
+        "emg-01"
+      ],
+      "locations": [
+        "emg-01.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "怎么走？",
+      "pinyin": [
+        "Zěnme zǒu?"
+      ],
+      "levels": [
+        "trv-02"
+      ],
+      "locations": [
+        "trv-02.phrases.1"
+      ]
+    },
+    {
+      "zh": "您也吃！",
+      "pinyin": [
+        "Nín yě chī!"
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.phrases.7"
+      ]
+    },
+    {
+      "zh": "您吃饭了吗？",
+      "pinyin": [
+        "Nín chīfàn le ma?"
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.phrases.5"
+      ]
+    },
+    {
+      "zh": "您喜欢就好。",
+      "pinyin": [
+        "Nín xǐhuan jiù hǎo."
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.phrases.8",
+        "fam-02.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "您好！",
+      "pinyin": [
+        "Nín hǎo!"
+      ],
+      "levels": [
+        "bas-01",
+        "fam-01",
+        "trv-04",
+        "nth-01"
+      ],
+      "locations": [
+        "bas-01.phrases.1",
+        "bas-01.stages.1.lines.0",
+        "fam-01.stages.1.cards.0.ex.0",
+        "trv-04.stages.1.lines.0",
+        "nth-01.phrases.0"
+      ]
+    },
+    {
+      "zh": "您家真漂亮！",
+      "pinyin": [
+        "Nín jiā zhēn piàoliang!"
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.phrases.0",
+        "fam-07.stages.4.items.0"
+      ]
+    },
+    {
+      "zh": "您想点哪个菜？",
+      "pinyin": [
+        "Nín xiǎng diǎn nǎge cài?"
+      ],
+      "levels": [
+        "emg-02"
+      ],
+      "locations": [
+        "emg-02.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "您歇着吧。",
+      "pinyin": [
+        "Nín xiēzhe ba."
+      ],
+      "levels": [
+        "nth-01"
+      ],
+      "locations": [
+        "nth-01.phrases.3"
+      ]
+    },
+    {
+      "zh": "您现在在哪儿？",
+      "pinyin": [
+        "Nín xiànzài zài nǎr?"
+      ],
+      "levels": [
+        "trv-03"
+      ],
+      "locations": [
+        "trv-03.stages.1.lines.1"
+      ]
+    },
+    {
+      "zh": "您留步，不用送了。",
+      "pinyin": [
+        "Nín liúbù, bú yòng sòng le."
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.phrases.3",
+        "fam-09.stages.2.lines.7",
+        "fam-09.stages.5.items.2"
+      ]
+    },
+    {
+      "zh": "您能帮我吗？",
+      "pinyin": [
+        "Nín néng bāng wǒ ma?"
+      ],
+      "levels": [
+        "bld-02"
+      ],
+      "locations": [
+        "bld-02.phrases.4"
+      ]
+    },
+    {
+      "zh": "您要打给谁？",
+      "pinyin": [
+        "Nín yào dǎ gěi shéi?"
+      ],
+      "levels": [
+        "emg-01"
+      ],
+      "locations": [
+        "emg-01.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "您要袋子吗？",
+      "pinyin": [
+        "Nín yào dàizi ma?"
+      ],
+      "levels": [
+        "bas-02"
+      ],
+      "locations": [
+        "bas-02.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "您辛苦了！",
+      "pinyin": [
+        "Nín xīnkǔ le!"
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.phrases.9"
+      ]
+    },
+    {
+      "zh": "您过奖了！",
+      "pinyin": [
+        "Nín guòjiǎng le!"
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.stages.2.lines.7"
+      ]
+    },
+    {
+      "zh": "您过奖了。",
+      "pinyin": [
+        "Nín guòjiǎng le."
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.phrases.7"
+      ]
+    },
+    {
+      "zh": "意思",
+      "pinyin": [
+        "yìsi"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.stages.3.items.8"
+      ]
+    },
+    {
+      "zh": "慢慢吃。",
+      "pinyin": [
+        "Mànmàn chī."
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.phrases.3"
+      ]
+    },
+    {
+      "zh": "慢走啊！",
+      "pinyin": [
+        "Màn zǒu a!"
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.stages.2.lines.6"
+      ]
+    },
+    {
+      "zh": "我",
+      "pinyin": [
+        "wǒ"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.stages.0.cards.2.ex.1"
+      ]
+    },
+    {
+      "zh": "我三点来。",
+      "pinyin": [
+        "Wǒ sān diǎn lái."
+      ],
+      "levels": [
+        "bld-01"
+      ],
+      "locations": [
+        "bld-01.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "我不吃牛肉。",
+      "pinyin": [
+        "Wǒ bù chī niúròu."
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.phrases.7",
+        "food-03.stages.2.lines.3",
+        "food-03.stages.5.items.0"
+      ]
+    },
+    {
+      "zh": "我不吃肉。",
+      "pinyin": [
+        "Wǒ bù chī ròu."
+      ],
+      "levels": [
+        "ton-05",
+        "bld-02"
+      ],
+      "locations": [
+        "ton-05.phrases.4",
+        "bld-02.phrases.5"
+      ]
+    },
+    {
+      "zh": "我不喝酒，我喝茶。",
+      "pinyin": [
+        "Wǒ bù hē jiǔ, wǒ hē chá."
+      ],
+      "levels": [
+        "food-04"
+      ],
+      "locations": [
+        "food-04.stages.2.lines.5"
+      ]
+    },
+    {
+      "zh": "我不喝酒，谢谢。",
+      "pinyin": [
+        "Wǒ bù hē jiǔ, xièxie."
+      ],
+      "levels": [
+        "fam-06"
+      ],
+      "locations": [
+        "fam-06.stages.1.cards.2.ex.0"
+      ]
+    },
+    {
+      "zh": "我不喝酒。",
+      "pinyin": [
+        "Wǒ bù hē jiǔ."
+      ],
+      "levels": [
+        "fam-06"
+      ],
+      "locations": [
+        "fam-06.phrases.5",
+        "fam-06.stages.5.items.2"
+      ]
+    },
+    {
+      "zh": "我不舒服。",
+      "pinyin": [
+        "Wǒ bù shūfu."
+      ],
+      "levels": [
+        "emg-02"
+      ],
+      "locations": [
+        "emg-02.phrases.0"
+      ]
+    },
+    {
+      "zh": "我今天不能去。",
+      "pinyin": [
+        "Wǒ jīntiān bù néng qù."
+      ],
+      "levels": [
+        "frd-03"
+      ],
+      "locations": [
+        "frd-03.phrases.5"
+      ]
+    },
+    {
+      "zh": "我今天在家吃饭。",
+      "pinyin": [
+        "Wǒ jīntiān zài jiā chīfàn."
+      ],
+      "levels": [
+        "bld-01"
+      ],
+      "locations": [
+        "bld-01.phrases.2",
+        "bld-01.stages.3.items.1"
+      ]
+    },
+    {
+      "zh": "我今年三十岁。",
+      "pinyin": [
+        "Wǒ jīnnián sānshí suì."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.1.cards.0.ex.0"
+      ]
+    },
+    {
+      "zh": "我今年二十八岁。",
+      "pinyin": [
+        "Wǒ jīnnián èrshíbā suì."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.phrases.1",
+        "fam-03.stages.3.items.0"
+      ]
+    },
+    {
+      "zh": "我从印度来。",
+      "pinyin": [
+        "Wǒ cóng Yìndù lái."
+      ],
+      "levels": [
+        "bas-03"
+      ],
+      "locations": [
+        "bas-03.phrases.1"
+      ]
+    },
+    {
+      "zh": "我们",
+      "pinyin": [
+        "wǒmen",
+        "Wǒmen"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.phrases.5",
+        "ton-06.stages.0.cards.1.ex.2",
+        "ton-06.stages.3.items.4"
+      ]
+    },
+    {
+      "zh": "我们AA吧！",
+      "pinyin": [
+        "Wǒmen AA ba!"
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "我们AA吧。",
+      "pinyin": [
+        "Wǒmen AA ba."
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.phrases.7",
+        "food-08.stages.1.cards.1.ex.0"
+      ]
+    },
+    {
+      "zh": "我们一起吃饭吧。",
+      "pinyin": [
+        "Wǒmen yìqǐ chī fàn ba."
+      ],
+      "levels": [
+        "frd-03"
+      ],
+      "locations": [
+        "frd-03.phrases.1",
+        "frd-03.stages.1.lines.1"
+      ]
+    },
+    {
+      "zh": "我们三点半见吧。",
+      "pinyin": [
+        "Wǒmen sān diǎn bàn jiàn ba."
+      ],
+      "levels": [
+        "bas-04"
+      ],
+      "locations": [
+        "bas-04.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "我们先看看。",
+      "pinyin": [
+        "Wǒmen xiān kànkan."
+      ],
+      "levels": [
+        "food-01"
+      ],
+      "locations": [
+        "food-01.phrases.8",
+        "food-01.stages.4.items.2"
+      ]
+    },
+    {
+      "zh": "我们去吃饺子，好吗？",
+      "pinyin": [
+        "Wǒmen qù chī jiǎozi, hǎo ma?"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "我们吃火锅吧！",
+      "pinyin": [
+        "Wǒmen chī huǒguō ba!"
+      ],
+      "levels": [
+        "food-06"
+      ],
+      "locations": [
+        "food-06.phrases.0",
+        "food-06.stages.4.items.0"
+      ]
+    },
+    {
+      "zh": "我们是同事。",
+      "pinyin": [
+        "Wǒmen shì tóngshì."
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.stages.1.cards.1.ex.1"
+      ]
+    },
+    {
+      "zh": "我们是同学。",
+      "pinyin": [
+        "Wǒmen shì tóngxué."
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.stages.1.cards.1.ex.2"
+      ]
+    },
+    {
+      "zh": "我们是在网上认识的。",
+      "pinyin": [
+        "Wǒmen shì zài wǎngshang rènshi de."
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.stages.1.cards.1.ex.0"
+      ]
+    },
+    {
+      "zh": "我们是朋友介绍的。",
+      "pinyin": [
+        "Wǒmen shì péngyou jièshào de."
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.phrases.3",
+        "fam-04.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "我们点外卖吧。",
+      "pinyin": [
+        "Wǒmen diǎn wàimài ba."
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.phrases.6",
+        "food-08.stages.5.items.3"
+      ]
+    },
+    {
+      "zh": "我们要两张票。",
+      "pinyin": [
+        "Wǒmen yào liǎng zhāng piào."
+      ],
+      "levels": [
+        "bld-03"
+      ],
+      "locations": [
+        "bld-03.stages.3.items.1"
+      ]
+    },
+    {
+      "zh": "我会说一点儿中文。",
+      "pinyin": [
+        "Wǒ huì shuō yìdiǎnr Zhōngwén."
+      ],
+      "levels": [
+        "bas-02",
+        "bld-02"
+      ],
+      "locations": [
+        "bas-02.phrases.4",
+        "bld-02.phrases.2"
+      ]
+    },
+    {
+      "zh": "我会说英语。",
+      "pinyin": [
+        "Wǒ huì shuō Yīngyǔ."
+      ],
+      "levels": [
+        "bas-03"
+      ],
+      "locations": [
+        "bas-03.phrases.4"
+      ]
+    },
+    {
+      "zh": "我再打给您。",
+      "pinyin": [
+        "Wǒ zài dǎ gěi nín."
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.phrases.4",
+        "fam-10.stages.5.items.2"
+      ]
+    },
+    {
+      "zh": "我再看看。",
+      "pinyin": [
+        "Wǒ zài kànkan."
+      ],
+      "levels": [
+        "shp-01"
+      ],
+      "locations": [
+        "shp-01.phrases.6"
+      ]
+    },
+    {
+      "zh": "我去。",
+      "pinyin": [
+        "Wǒ qù."
+      ],
+      "levels": [
+        "snd-03"
+      ],
+      "locations": [
+        "snd-03.phrases.0"
+      ]
+    },
+    {
+      "zh": "我去问一下厨师。",
+      "pinyin": [
+        "Wǒ qù wèn yíxià chúshī."
+      ],
+      "levels": [
+        "emg-02"
+      ],
+      "locations": [
+        "emg-02.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "我发给你。",
+      "pinyin": [
+        "Wǒ fā gěi nǐ."
+      ],
+      "levels": [
+        "frd-02"
+      ],
+      "locations": [
+        "frd-02.phrases.3",
+        "frd-02.stages.1.lines.4"
+      ]
+    },
+    {
+      "zh": "我叫……",
+      "pinyin": [
+        "Wǒ jiào ..."
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.phrases.3"
+      ]
+    },
+    {
+      "zh": "我可以坐这儿吗？",
+      "pinyin": [
+        "Wǒ kěyǐ zuò zhèr ma?"
+      ],
+      "levels": [
+        "bld-02"
+      ],
+      "locations": [
+        "bld-02.phrases.3",
+        "bld-02.stages.2.lines.0",
+        "bld-02.stages.3.items.1"
+      ]
+    },
+    {
+      "zh": "我吃素。",
+      "pinyin": [
+        "Wǒ chī sù."
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.phrases.3"
+      ]
+    },
+    {
+      "zh": "我吃饱了。",
+      "pinyin": [
+        "Wǒ chībǎo le."
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.phrases.9"
+      ]
+    },
+    {
+      "zh": "我听不懂。",
+      "pinyin": [
+        "Wǒ tīng bù dǒng."
+      ],
+      "levels": [
+        "bas-02"
+      ],
+      "locations": [
+        "bas-02.phrases.0",
+        "bas-02.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "我呼吸困难。",
+      "pinyin": [
+        "Wǒ hūxī kùnnan."
+      ],
+      "levels": [
+        "emg-02"
+      ],
+      "locations": [
+        "emg-02.phrases.5"
+      ]
+    },
+    {
+      "zh": "我在学中文。",
+      "pinyin": [
+        "Wǒ zài xué Zhōngwén."
+      ],
+      "levels": [
+        "bas-03",
+        "frd-01"
+      ],
+      "locations": [
+        "bas-03.phrases.3",
+        "bas-03.stages.1.lines.4",
+        "frd-01.phrases.6",
+        "frd-01.stages.1.lines.3"
+      ]
+    },
+    {
+      "zh": "我在这儿。",
+      "pinyin": [
+        "Wǒ zài zhèr."
+      ],
+      "levels": [
+        "trv-03"
+      ],
+      "locations": [
+        "trv-03.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "我在门口。",
+      "pinyin": [
+        "Wǒ zài ménkǒu."
+      ],
+      "levels": [
+        "trv-01"
+      ],
+      "locations": [
+        "trv-01.phrases.2"
+      ]
+    },
+    {
+      "zh": "我坐错方向了。",
+      "pinyin": [
+        "Wǒ zuò cuò fāngxiàng le."
+      ],
+      "levels": [
+        "trv-03"
+      ],
+      "locations": [
+        "trv-03.phrases.3"
+      ]
+    },
+    {
+      "zh": "我头疼。",
+      "pinyin": [
+        "Wǒ tóu téng."
+      ],
+      "levels": [
+        "emg-02"
+      ],
+      "locations": [
+        "emg-02.phrases.1"
+      ]
+    },
+    {
+      "zh": "我学中文。",
+      "pinyin": [
+        "Wǒ xué Zhōngwén."
+      ],
+      "levels": [
+        "snd-02"
+      ],
+      "locations": [
+        "snd-02.phrases.7"
+      ]
+    },
+    {
+      "zh": "我家有三口人。",
+      "pinyin": [
+        "Wǒ jiā yǒu sān kǒu rén."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.1.cards.0.ex.1"
+      ]
+    },
+    {
+      "zh": "我家有五口人。",
+      "pinyin": [
+        "Wǒ jiā yǒu wǔ kǒu rén."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.1.cards.0.ex.2"
+      ]
+    },
+    {
+      "zh": "我家有四口人，我爸妈都在印度。",
+      "pinyin": [
+        "Wǒ jiā yǒu sì kǒu rén, wǒ bàmā dōu zài Yìndù."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.2.lines.7"
+      ]
+    },
+    {
+      "zh": "我家有四口人。",
+      "pinyin": [
+        "Wǒ jiā yǒu sì kǒu rén."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.phrases.4",
+        "fam-03.stages.3.items.2"
+      ]
+    },
+    {
+      "zh": "我对花生过敏。",
+      "pinyin": [
+        "Wǒ duì huāshēng guòmǐn."
+      ],
+      "levels": [
+        "food-03",
+        "emg-02"
+      ],
+      "locations": [
+        "food-03.phrases.8",
+        "food-03.stages.2.lines.5",
+        "food-03.stages.5.items.1",
+        "emg-02.phrases.3",
+        "emg-02.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "我少喝点儿。",
+      "pinyin": [
+        "Wǒ shǎo hē diǎnr."
+      ],
+      "levels": [
+        "fam-06"
+      ],
+      "locations": [
+        "fam-06.phrases.7"
+      ]
+    },
+    {
+      "zh": "我已经付了。",
+      "pinyin": [
+        "Wǒ yǐjīng fù le."
+      ],
+      "levels": [
+        "shp-02"
+      ],
+      "locations": [
+        "shp-02.phrases.5",
+        "shp-02.stages.1.lines.5"
+      ]
+    },
+    {
+      "zh": "我帮您看看。",
+      "pinyin": [
+        "Wǒ bāng nín kànkan."
+      ],
+      "levels": [
+        "trv-03"
+      ],
+      "locations": [
+        "trv-03.stages.1.lines.3"
+      ]
+    },
+    {
+      "zh": "我干了，你随意。",
+      "pinyin": [
+        "Wǒ gān le, nǐ suíyì."
+      ],
+      "levels": [
+        "fam-06"
+      ],
+      "locations": [
+        "fam-06.phrases.4",
+        "fam-06.stages.2.lines.2"
+      ],
+      "speak": "我甘了，你随意。"
+    },
+    {
+      "zh": "我很喜欢中国，这儿的人很热情。",
+      "pinyin": [
+        "Wǒ hěn xǐhuan Zhōngguó, zhèr de rén hěn rèqíng."
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.phrases.5",
+        "fam-04.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "我很好",
+      "pinyin": [
+        "Wǒ hěn hǎo"
+      ],
+      "levels": [
+        "ton-04",
+        "ton-08"
+      ],
+      "locations": [
+        "ton-04.stages.0.cards.2.ex.0",
+        "ton-04.stages.2.items.3",
+        "ton-08.stages.5.items.9"
+      ]
+    },
+    {
+      "zh": "我很好。",
+      "pinyin": [
+        "Wǒ hěn hǎo."
+      ],
+      "levels": [
+        "ton-04"
+      ],
+      "locations": [
+        "ton-04.phrases.2"
+      ]
+    },
+    {
+      "zh": "我想去北京。",
+      "pinyin": [
+        "Wǒ xiǎng qù Běijīng."
+      ],
+      "levels": [
+        "bld-02"
+      ],
+      "locations": [
+        "bld-02.phrases.0",
+        "bld-02.stages.3.items.0"
+      ]
+    },
+    {
+      "zh": "我想吃地三鲜。",
+      "pinyin": [
+        "Wǒ xiǎng chī dìsānxiān."
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.stages.1.lines.1"
+      ]
+    },
+    {
+      "zh": "我想吃饺子。",
+      "pinyin": [
+        "Wǒ xiǎng chī jiǎozi."
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.phrases.0"
+      ]
+    },
+    {
+      "zh": "我想吃馒头。",
+      "pinyin": [
+        "Wǒ xiǎng chī mántou."
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.stages.1.lines.3"
+      ]
+    },
+    {
+      "zh": "我打算待一个月。",
+      "pinyin": [
+        "Wǒ dǎsuan dāi yí ge yuè."
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.phrases.9",
+        "fam-04.stages.2.lines.9"
+      ]
+    },
+    {
+      "zh": "我扫你。",
+      "pinyin": [
+        "Wǒ sǎo nǐ."
+      ],
+      "levels": [
+        "frd-02"
+      ],
+      "locations": [
+        "frd-02.phrases.1",
+        "frd-02.stages.1.lines.1"
+      ]
+    },
+    {
+      "zh": "我扫你还是你扫我？",
+      "pinyin": [
+        "Wǒ sǎo nǐ háishi nǐ sǎo wǒ?"
+      ],
+      "levels": [
+        "shp-02"
+      ],
+      "locations": [
+        "shp-02.phrases.2",
+        "shp-02.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "我敬您一杯。",
+      "pinyin": [
+        "Wǒ jìng nín yì bēi."
+      ],
+      "levels": [
+        "fam-06"
+      ],
+      "locations": [
+        "fam-06.phrases.1",
+        "fam-06.stages.5.items.0"
+      ]
+    },
+    {
+      "zh": "我明天去北京。",
+      "pinyin": [
+        "Wǒ míngtiān qù Běijīng."
+      ],
+      "levels": [
+        "bld-01"
+      ],
+      "locations": [
+        "bld-01.phrases.1",
+        "bld-01.stages.2.lines.1",
+        "bld-01.stages.3.items.0"
+      ]
+    },
+    {
+      "zh": "我是",
+      "pinyin": [
+        "wǒ shì"
+      ],
+      "levels": [
+        "ton-04"
+      ],
+      "locations": [
+        "ton-04.stages.0.cards.3.ex.2",
+        "ton-04.stages.2.items.7"
+      ]
+    },
+    {
+      "zh": "我是做生意的。",
+      "pinyin": [
+        "Wǒ shì zuò shēngyi de."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.1.cards.2.ex.0"
+      ]
+    },
+    {
+      "zh": "我是做设计的。",
+      "pinyin": [
+        "Wǒ shì zuò shèjì de."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.1.cards.2.ex.1"
+      ]
+    },
+    {
+      "zh": "我是做软件的。",
+      "pinyin": [
+        "Wǒ shì zuò ruǎnjiàn de."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.phrases.2",
+        "fam-03.stages.2.lines.3",
+        "fam-03.stages.3.items.1"
+      ]
+    },
+    {
+      "zh": "我是印度人。",
+      "pinyin": [
+        "Wǒ shì Yìndù rén."
+      ],
+      "levels": [
+        "ton-04",
+        "bas-03",
+        "frd-01",
+        "bld-01"
+      ],
+      "locations": [
+        "ton-04.phrases.9",
+        "bas-03.phrases.0",
+        "bas-03.stages.1.lines.1",
+        "frd-01.phrases.5",
+        "bld-01.phrases.0"
+      ]
+    },
+    {
+      "zh": "我是晓雨的女朋友。",
+      "pinyin": [
+        "Wǒ shì Xiǎoyǔ de nǚpéngyou."
+      ],
+      "levels": [
+        "fam-01",
+        "frd-01"
+      ],
+      "locations": [
+        "fam-01.phrases.2.f",
+        "frd-01.phrases.2.f"
+      ]
+    },
+    {
+      "zh": "我是晓雨的男朋友。",
+      "pinyin": [
+        "Wǒ shì Xiǎoyǔ de nánpéngyou."
+      ],
+      "levels": [
+        "fam-01",
+        "frd-01"
+      ],
+      "locations": [
+        "fam-01.phrases.2",
+        "frd-01.phrases.2"
+      ]
+    },
+    {
+      "zh": "我有点儿紧张。",
+      "pinyin": [
+        "Wǒ yǒudiǎnr jǐnzhāng."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.phrases.7"
+      ]
+    },
+    {
+      "zh": "我有预订。",
+      "pinyin": [
+        "Wǒ yǒu yùdìng."
+      ],
+      "levels": [
+        "trv-04"
+      ],
+      "locations": [
+        "trv-04.phrases.0",
+        "trv-04.stages.1.lines.1"
+      ]
+    },
+    {
+      "zh": "我来！",
+      "pinyin": [
+        "Wǒ lái!"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.phrases.9"
+      ]
+    },
+    {
+      "zh": "我来中国旅游。",
+      "pinyin": [
+        "Wǒ lái Zhōngguó lǚyóu."
+      ],
+      "levels": [
+        "bas-03"
+      ],
+      "locations": [
+        "bas-03.phrases.2",
+        "bas-03.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "我来吧！",
+      "pinyin": [
+        "Wǒ lái ba!"
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.stages.1.cards.0.ex.0"
+      ]
+    },
+    {
+      "zh": "我来帮您。",
+      "pinyin": [
+        "Wǒ lái bāng nín."
+      ],
+      "levels": [
+        "fam-08",
+        "nth-01"
+      ],
+      "locations": [
+        "fam-08.phrases.0",
+        "nth-01.phrases.2"
+      ]
+    },
+    {
+      "zh": "我来收拾桌子。",
+      "pinyin": [
+        "Wǒ lái shōushi zhuōzi."
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.phrases.2"
+      ]
+    },
+    {
+      "zh": "我来洗碗。",
+      "pinyin": [
+        "Wǒ lái xǐ wǎn."
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.phrases.1",
+        "fam-08.stages.5.items.1"
+      ]
+    },
+    {
+      "zh": "我没吃饭。",
+      "pinyin": [
+        "Wǒ méi chīfàn."
+      ],
+      "levels": [
+        "bld-02"
+      ],
+      "locations": [
+        "bld-02.phrases.6"
+      ]
+    },
+    {
+      "zh": "我没听清楚。",
+      "pinyin": [
+        "Wǒ méi tīng qīngchu."
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.phrases.3"
+      ]
+    },
+    {
+      "zh": "我没有现金。",
+      "pinyin": [
+        "Wǒ méiyǒu xiànjīn."
+      ],
+      "levels": [
+        "bld-02"
+      ],
+      "locations": [
+        "bld-02.phrases.7",
+        "bld-02.stages.3.items.2"
+      ]
+    },
+    {
+      "zh": "我爸妈都在印度。",
+      "pinyin": [
+        "Wǒ bàmā dōu zài Yìndù."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.phrases.5",
+        "fam-03.stages.3.items.3"
+      ]
+    },
+    {
+      "zh": "我的中文不太好，请多包涵。",
+      "pinyin": [
+        "Wǒ de Zhōngwén bú tài hǎo, qǐng duō bāohan."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.phrases.6",
+        "fam-03.stages.2.lines.9"
+      ]
+    },
+    {
+      "zh": "我的中文不太好。",
+      "pinyin": [
+        "Wǒ de Zhōngwén bú tài hǎo."
+      ],
+      "levels": [
+        "bas-03"
+      ],
+      "locations": [
+        "bas-03.phrases.5",
+        "bas-03.stages.1.lines.5"
+      ]
+    },
+    {
+      "zh": "我的手机丢了。",
+      "pinyin": [
+        "Wǒ de shǒujī diū le."
+      ],
+      "levels": [
+        "emg-01"
+      ],
+      "locations": [
+        "emg-01.phrases.2",
+        "emg-01.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "我的护照丢了。",
+      "pinyin": [
+        "Wǒ de hùzhào diū le."
+      ],
+      "levels": [
+        "emg-01"
+      ],
+      "locations": [
+        "emg-01.phrases.3"
+      ]
+    },
+    {
+      "zh": "我等一会儿。",
+      "pinyin": [
+        "Wǒ děng yíhuìr."
+      ],
+      "levels": [
+        "nth-01"
+      ],
+      "locations": [
+        "nth-01.phrases.6"
+      ]
+    },
+    {
+      "zh": "我给您指一下。",
+      "pinyin": [
+        "Wǒ gěi nín zhǐ yíxià."
+      ],
+      "levels": [
+        "trv-03"
+      ],
+      "locations": [
+        "trv-03.stages.1.lines.5"
+      ]
+    },
+    {
+      "zh": "我老家在德里。",
+      "pinyin": [
+        "Wǒ lǎojiā zài Délǐ."
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.phrases.3",
+        "fam-03.stages.2.lines.5"
+      ]
+    },
+    {
+      "zh": "我肚子疼。",
+      "pinyin": [
+        "Wǒ dùzi téng."
+      ],
+      "levels": [
+        "emg-02"
+      ],
+      "locations": [
+        "emg-02.phrases.2"
+      ],
+      "speak": "我度子疼。"
+    },
+    {
+      "zh": "我自己来，您也吃！",
+      "pinyin": [
+        "Wǒ zìjǐ lái, nín yě chī!"
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.stages.2.lines.5",
+        "fam-05.stages.5.items.2"
+      ]
+    },
+    {
+      "zh": "我自己来。",
+      "pinyin": [
+        "Wǒ zìjǐ lái."
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.phrases.6"
+      ]
+    },
+    {
+      "zh": "我要一杯茶。",
+      "pinyin": [
+        "Wǒ yào yì bēi chá."
+      ],
+      "levels": [
+        "bld-02",
+        "bld-03"
+      ],
+      "locations": [
+        "bld-02.phrases.1",
+        "bld-02.stages.2.lines.2",
+        "bld-03.stages.3.items.0"
+      ]
+    },
+    {
+      "zh": "我要两碗米饭。",
+      "pinyin": [
+        "Wǒ yào liǎng wǎn mǐfàn."
+      ],
+      "levels": [
+        "bld-03"
+      ],
+      "locations": [
+        "bld-03.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "我要水饺。",
+      "pinyin": [
+        "Wǒ yào shuǐjiǎo."
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.stages.4.lines.1"
+      ]
+    },
+    {
+      "zh": "我要涮羊肉！你呢？",
+      "pinyin": [
+        "Wǒ yào shuàn yángròu! Nǐ ne?"
+      ],
+      "levels": [
+        "food-06"
+      ],
+      "locations": [
+        "food-06.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "我要这个。",
+      "pinyin": [
+        "Wǒ yào zhège."
+      ],
+      "levels": [
+        "food-02",
+        "shp-01"
+      ],
+      "locations": [
+        "food-02.phrases.2",
+        "food-02.stages.4.items.1",
+        "shp-01.phrases.7",
+        "shp-01.stages.1.lines.4"
+      ]
+    },
+    {
+      "zh": "我请客！",
+      "pinyin": [
+        "Wǒ qǐngkè!"
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.phrases.8"
+      ]
+    },
+    {
+      "zh": "我这儿信号不好，我再打给您。",
+      "pinyin": [
+        "Wǒ zhèr xìnhào bù hǎo, wǒ zài dǎ gěi nín."
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.stages.2.lines.5"
+      ]
+    },
+    {
+      "zh": "我这儿信号不好。",
+      "pinyin": [
+        "Wǒ zhèr xìnhào bù hǎo."
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.phrases.2",
+        "fam-10.stages.5.items.0"
+      ]
+    },
+    {
+      "zh": "我迷路了。",
+      "pinyin": [
+        "Wǒ mílù le."
+      ],
+      "levels": [
+        "emg-01"
+      ],
+      "locations": [
+        "emg-01.phrases.1"
+      ]
+    },
+    {
+      "zh": "我饿了。",
+      "pinyin": [
+        "Wǒ è le."
+      ],
+      "levels": [
+        "snd-03"
+      ],
+      "locations": [
+        "snd-03.phrases.3",
+        "snd-03.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "房",
+      "pinyin": [
+        "Fáng"
+      ],
+      "levels": [
+        "snd-03"
+      ],
+      "locations": [
+        "snd-03.stages.1.cards.2.ex.1"
+      ]
+    },
+    {
+      "zh": "房间",
+      "pinyin": [
+        "Fángjiān"
+      ],
+      "levels": [
+        "snd-03"
+      ],
+      "locations": [
+        "snd-03.phrases.6"
+      ]
+    },
+    {
+      "zh": "房间在几楼？",
+      "pinyin": [
+        "Fángjiān zài jǐ lóu?"
+      ],
+      "levels": [
+        "trv-04"
+      ],
+      "locations": [
+        "trv-04.phrases.5"
+      ]
+    },
+    {
+      "zh": "房间没有热水。",
+      "pinyin": [
+        "Fángjiān méiyǒu rèshuǐ."
+      ],
+      "levels": [
+        "trv-04"
+      ],
+      "locations": [
+        "trv-04.phrases.6"
+      ]
+    },
+    {
+      "zh": "打扰了，谢谢阿姨！",
+      "pinyin": [
+        "Dǎrǎo le, xièxie Āyí!"
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.stages.2.lines.5",
+        "fam-01.stages.5.items.2"
+      ]
+    },
+    {
+      "zh": "打扰了。",
+      "pinyin": [
+        "Dǎrǎo le."
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.phrases.5"
+      ]
+    },
+    {
+      "zh": "打算在中国待多久？",
+      "pinyin": [
+        "Dǎsuan zài Zhōngguó dāi duō jiǔ?"
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.phrases.8",
+        "fam-04.stages.2.lines.8"
+      ]
+    },
+    {
+      "zh": "拍张照吧。",
+      "pinyin": [
+        "Pāi zhāng zhào ba."
+      ],
+      "levels": [
+        "frd-02"
+      ],
+      "locations": [
+        "frd-02.phrases.6"
+      ]
+    },
+    {
+      "zh": "拍黄瓜",
+      "pinyin": [
+        "Pāi huánggua"
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.phrases.9"
+      ]
+    },
+    {
+      "zh": "拿着，带点儿水果路上吃。",
+      "pinyin": [
+        "Ná zhe, dài diǎnr shuǐguǒ lùshang chī."
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.phrases.6",
+        "fam-09.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "挺好的。",
+      "pinyin": [
+        "Tǐng hǎo de."
+      ],
+      "levels": [
+        "nth-02"
+      ],
+      "locations": [
+        "nth-02.phrases.5"
+      ]
+    },
+    {
+      "zh": "支付宝。",
+      "pinyin": [
+        "Zhīfùbǎo."
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.stages.2.lines.7"
+      ]
+    },
+    {
+      "zh": "收到了。",
+      "pinyin": [
+        "Shōudào le."
+      ],
+      "levels": [
+        "frd-02"
+      ],
+      "locations": [
+        "frd-02.phrases.5",
+        "frd-02.stages.1.lines.5"
+      ]
+    },
+    {
+      "zh": "收现金吗？",
+      "pinyin": [
+        "Shōu xiànjīn ma?"
+      ],
+      "levels": [
+        "shp-02"
+      ],
+      "locations": [
+        "shp-02.phrases.3"
+      ]
+    },
+    {
+      "zh": "时间不早了，我先走了。",
+      "pinyin": [
+        "Shíjiān bù zǎo le, wǒ xiān zǒu le."
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.phrases.0",
+        "fam-09.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "明天",
+      "pinyin": [
+        "míngtiān"
+      ],
+      "levels": [
+        "ton-07",
+        "ton-08"
+      ],
+      "locations": [
+        "ton-07.phrases.5",
+        "ton-07.stages.0.cards.2.ex.0",
+        "ton-07.stages.2.items.5",
+        "ton-08.stages.5.items.7"
+      ]
+    },
+    {
+      "zh": "明天。",
+      "pinyin": [
+        "Míngtiān."
+      ],
+      "levels": [
+        "bas-04"
+      ],
+      "locations": [
+        "bas-04.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "明天三点半见。",
+      "pinyin": [
+        "Míngtiān sān diǎn bàn jiàn."
+      ],
+      "levels": [
+        "bas-04"
+      ],
+      "locations": [
+        "bas-04.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "明天三点见。",
+      "pinyin": [
+        "Míngtiān sān diǎn jiàn."
+      ],
+      "levels": [
+        "bld-03"
+      ],
+      "locations": [
+        "bld-03.phrases.5",
+        "bld-03.stages.3.items.2"
+      ]
+    },
+    {
+      "zh": "是",
+      "pinyin": [
+        "shì"
+      ],
+      "levels": [
+        "ton-02"
+      ],
+      "locations": [
+        "ton-02.stages.2.items.6"
+      ]
+    },
+    {
+      "zh": "是。",
+      "pinyin": [
+        "Shì."
+      ],
+      "levels": [
+        "snd-02"
+      ],
+      "locations": [
+        "snd-02.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "是吗？咸不咸？",
+      "pinyin": [
+        "Shì ma? Xián bu xián?"
+      ],
+      "levels": [
+        "food-07"
+      ],
+      "locations": [
+        "food-07.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "晓雨小时候真可爱！",
+      "pinyin": [
+        "Xiǎoyǔ xiǎo shíhou zhēn kě'ài!"
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.phrases.5"
+      ]
+    },
+    {
+      "zh": "晓雨小时候真可爱！晓雨很像您。",
+      "pinyin": [
+        "Xiǎoyǔ xiǎo shíhou zhēn kě'ài! Xiǎoyǔ hěn xiàng nín."
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "晓雨很像您。",
+      "pinyin": [
+        "Xiǎoyǔ hěn xiàng nín."
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.phrases.4",
+        "fam-07.stages.4.items.2"
+      ]
+    },
+    {
+      "zh": "晚上有空吗？",
+      "pinyin": [
+        "Wǎnshang yǒu kòng ma?"
+      ],
+      "levels": [
+        "frd-03"
+      ],
+      "locations": [
+        "frd-03.phrases.0",
+        "frd-03.stages.1.lines.0"
+      ]
+    },
+    {
+      "zh": "有",
+      "pinyin": [
+        "yǒu"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.phrases.3"
+      ]
+    },
+    {
+      "zh": "有，给您。",
+      "pinyin": [
+        "Yǒu, gěi nín."
+      ],
+      "levels": [
+        "food-01"
+      ],
+      "locations": [
+        "food-01.stages.1.lines.6"
+      ]
+    },
+    {
+      "zh": "有什么推荐的吗？",
+      "pinyin": [
+        "Yǒu shénme tuījiàn de ma?"
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.phrases.5",
+        "food-02.stages.2.lines.1",
+        "food-02.stages.4.items.2"
+      ]
+    },
+    {
+      "zh": "有什么茶？",
+      "pinyin": [
+        "Yǒu shénme chá?"
+      ],
+      "levels": [
+        "food-04"
+      ],
+      "locations": [
+        "food-04.phrases.4"
+      ]
+    },
+    {
+      "zh": "有位子吗？",
+      "pinyin": [
+        "Yǒu wèizi ma?"
+      ],
+      "levels": [
+        "food-01"
+      ],
+      "locations": [
+        "food-01.phrases.3"
+      ]
+    },
+    {
+      "zh": "有冰水吗？",
+      "pinyin": [
+        "Yǒu bīngshuǐ ma?"
+      ],
+      "levels": [
+        "food-04"
+      ],
+      "locations": [
+        "food-04.phrases.2",
+        "food-04.stages.1.cards.0.ex.0"
+      ]
+    },
+    {
+      "zh": "有忌口吗？",
+      "pinyin": [
+        "Yǒu jìkǒu ma?"
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "有早餐吗？",
+      "pinyin": [
+        "Yǒu zǎocān ma?"
+      ],
+      "levels": [
+        "trv-04"
+      ],
+      "locations": [
+        "trv-04.phrases.3"
+      ]
+    },
+    {
+      "zh": "有点儿咸。",
+      "pinyin": [
+        "Yǒudiǎnr xián."
+      ],
+      "levels": [
+        "food-07"
+      ],
+      "locations": [
+        "food-07.phrases.4",
+        "food-07.stages.1.lines.3"
+      ]
+    },
+    {
+      "zh": "有空来玩儿！",
+      "pinyin": [
+        "Yǒu kòng lái wánr!"
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.phrases.9"
+      ]
+    },
+    {
+      "zh": "有素菜吗？",
+      "pinyin": [
+        "Yǒu sùcài ma?"
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.phrases.4"
+      ]
+    },
+    {
+      "zh": "有素馅的吗？",
+      "pinyin": [
+        "Yǒu sùxiàn de ma?"
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.phrases.1"
+      ]
+    },
+    {
+      "zh": "有英文菜单吗？",
+      "pinyin": [
+        "Yǒu Yīngwén càidān ma?"
+      ],
+      "levels": [
+        "food-01"
+      ],
+      "locations": [
+        "food-01.phrases.7",
+        "food-01.stages.1.lines.5",
+        "food-01.stages.4.items.0"
+      ]
+    },
+    {
+      "zh": "有钱",
+      "pinyin": [
+        "yǒu qián"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.stages.2.items.9"
+      ]
+    },
+    {
+      "zh": "朋友",
+      "pinyin": [
+        "péngyou",
+        "Péngyou"
+      ],
+      "levels": [
+        "ton-06",
+        "ton-08"
+      ],
+      "locations": [
+        "ton-06.phrases.3",
+        "ton-06.stages.0.cards.1.ex.1",
+        "ton-06.stages.3.items.2",
+        "ton-08.stages.5.items.6"
+      ]
+    },
+    {
+      "zh": "服务员，买单！",
+      "pinyin": [
+        "Fúwùyuán, mǎidān!"
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.phrases.0",
+        "food-08.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "服务员！",
+      "pinyin": [
+        "Fúwùyuán!"
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.phrases.0"
+      ]
+    },
+    {
+      "zh": "来",
+      "pinyin": [
+        "lái"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.stages.0.cards.1.ex.2"
+      ]
+    },
+    {
+      "zh": "来，坐，喝茶。",
+      "pinyin": [
+        "Lái, zuò, hē chá."
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.stages.2.lines.5"
+      ]
+    },
+    {
+      "zh": "来，多吃点儿！",
+      "pinyin": [
+        "Lái, duō chī diǎnr!"
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.phrases.2"
+      ]
+    },
+    {
+      "zh": "来，换双拖鞋。",
+      "pinyin": [
+        "Lái, huàn shuāng tuōxié."
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.phrases.7"
+      ]
+    },
+    {
+      "zh": "来，走一个！",
+      "pinyin": [
+        "Lái, zǒu yí ge!"
+      ],
+      "levels": [
+        "fam-06"
+      ],
+      "locations": [
+        "fam-06.phrases.0",
+        "fam-06.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "来一个拍黄瓜。",
+      "pinyin": [
+        "Lái yí ge pāi huánggua."
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.phrases.3",
+        "food-02.stages.4.items.3"
+      ]
+    },
+    {
+      "zh": "来一杯热水。",
+      "pinyin": [
+        "Lái yì bēi rèshuǐ."
+      ],
+      "levels": [
+        "food-04"
+      ],
+      "locations": [
+        "food-04.phrases.1"
+      ]
+    },
+    {
+      "zh": "来一瓶可乐。",
+      "pinyin": [
+        "Lái yì píng kělè."
+      ],
+      "levels": [
+        "food-04"
+      ],
+      "locations": [
+        "food-04.phrases.8"
+      ]
+    },
+    {
+      "zh": "来一瓶啤酒。",
+      "pinyin": [
+        "Lái yì píng píjiǔ."
+      ],
+      "levels": [
+        "food-04"
+      ],
+      "locations": [
+        "food-04.phrases.6",
+        "food-04.stages.2.lines.1",
+        "food-04.stages.5.items.0"
+      ]
+    },
+    {
+      "zh": "来一碗米饭。",
+      "pinyin": [
+        "Lái yì wǎn mǐfàn."
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.phrases.6",
+        "food-02.stages.1.cards.0.ex.0",
+        "food-02.stages.4.items.0"
+      ]
+    },
+    {
+      "zh": "来一碗米饭。就这些。",
+      "pinyin": [
+        "Lái yì wǎn mǐfàn. Jiù zhèxiē."
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.stages.2.lines.5"
+      ]
+    },
+    {
+      "zh": "来来来，开饭了！",
+      "pinyin": [
+        "Lái lái lái, kāifàn le!"
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.phrases.0",
+        "fam-05.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "来点儿豆腐和蘑菇。",
+      "pinyin": [
+        "Lái diǎnr dòufu hé mógu."
+      ],
+      "levels": [
+        "food-06"
+      ],
+      "locations": [
+        "food-06.phrases.5",
+        "food-06.stages.1.lines.3"
+      ]
+    },
+    {
+      "zh": "树",
+      "pinyin": [
+        "shù"
+      ],
+      "levels": [
+        "ton-02"
+      ],
+      "locations": [
+        "ton-02.phrases.3",
+        "ton-02.stages.0.cards.1.ex.1",
+        "ton-02.stages.0.cards.2.ex.3",
+        "ton-02.stages.2.items.3"
+      ]
+    },
+    {
+      "zh": "梨",
+      "pinyin": [
+        "lí"
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.stages.1.cards.1.ex.1"
+      ]
+    },
+    {
+      "zh": "欢迎光临！",
+      "pinyin": [
+        "Huānyíng guānglín!"
+      ],
+      "levels": [
+        "food-01"
+      ],
+      "locations": [
+        "food-01.phrases.0"
+      ]
+    },
+    {
+      "zh": "欢迎光临！几位？",
+      "pinyin": [
+        "Huānyíng guānglín! Jǐ wèi?"
+      ],
+      "levels": [
+        "food-01"
+      ],
+      "locations": [
+        "food-01.stages.1.lines.0"
+      ]
+    },
+    {
+      "zh": "水果",
+      "pinyin": [
+        "shuǐguǒ",
+        "Shuǐguǒ"
+      ],
+      "levels": [
+        "ton-04",
+        "fam-02"
+      ],
+      "locations": [
+        "ton-04.phrases.4",
+        "ton-04.stages.0.cards.1.ex.3",
+        "ton-04.stages.2.items.2",
+        "fam-02.stages.1.cards.0.ex.1"
+      ]
+    },
+    {
+      "zh": "水饺",
+      "pinyin": [
+        "shuǐjiǎo"
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.phrases.2",
+        "ton-08.stages.0.cards.0.ex.2",
+        "ton-08.stages.5.items.1"
+      ]
+    },
+    {
+      "zh": "汽车",
+      "pinyin": [
+        "qìchē"
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.phrases.4",
+        "ton-08.stages.0.cards.1.ex.0",
+        "ton-08.stages.2.items.4"
+      ]
+    },
+    {
+      "zh": "没事儿",
+      "pinyin": [
+        "méi shìr"
+      ],
+      "levels": [
+        "ton-07"
+      ],
+      "locations": [
+        "ton-07.stages.0.cards.2.ex.3",
+        "ton-07.stages.2.items.9"
+      ]
+    },
+    {
+      "zh": "没事儿，我不累。",
+      "pinyin": [
+        "Méi shìr, wǒ bú lèi."
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.phrases.6"
+      ]
+    },
+    {
+      "zh": "没事儿！",
+      "pinyin": [
+        "Méi shìr!"
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.stages.1.cards.1.ex.0"
+      ]
+    },
+    {
+      "zh": "没事儿。",
+      "pinyin": [
+        "Méi shìr."
+      ],
+      "levels": [
+        "ton-07",
+        "nth-01"
+      ],
+      "locations": [
+        "ton-07.phrases.9",
+        "nth-01.phrases.7"
+      ]
+    },
+    {
+      "zh": "没事儿没事儿，碎碎平安！",
+      "pinyin": [
+        "Méi shìr méi shìr, suì suì píng'ān!"
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.phrases.8",
+        "fam-08.stages.2.lines.5"
+      ]
+    },
+    {
+      "zh": "没关系。",
+      "pinyin": [
+        "Méi guānxi."
+      ],
+      "levels": [
+        "bas-01"
+      ],
+      "locations": [
+        "bas-01.phrases.5"
+      ]
+    },
+    {
+      "zh": "没干嘛，想您了。",
+      "pinyin": [
+        "Méi gànmá, xiǎng nín le."
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.phrases.7",
+        "fam-10.stages.2.lines.7"
+      ]
+    },
+    {
+      "zh": "没有",
+      "pinyin": [
+        "méiyǒu"
+      ],
+      "levels": [
+        "ton-07"
+      ],
+      "locations": [
+        "ton-07.phrases.8",
+        "ton-07.stages.0.cards.2.ex.2",
+        "ton-07.stages.2.items.8"
+      ]
+    },
+    {
+      "zh": "没问题！",
+      "pinyin": [
+        "Méi wèntí!"
+      ],
+      "levels": [
+        "frd-01"
+      ],
+      "locations": [
+        "frd-01.stages.1.lines.5"
+      ]
+    },
+    {
+      "zh": "油",
+      "pinyin": [
+        "yóu"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.phrases.2"
+      ]
+    },
+    {
+      "zh": "洗手间",
+      "pinyin": [
+        "Xǐshǒujiān",
+        "xǐshǒujiān"
+      ],
+      "levels": [
+        "ton-04",
+        "ton-08"
+      ],
+      "locations": [
+        "ton-04.stages.0.cards.2.ex.1",
+        "ton-04.stages.2.items.4",
+        "ton-08.stages.5.items.10"
+      ]
+    },
+    {
+      "zh": "洗手间在哪儿？",
+      "pinyin": [
+        "Xǐshǒujiān zài nǎr?"
+      ],
+      "levels": [
+        "ton-04"
+      ],
+      "locations": [
+        "ton-04.phrases.6"
+      ]
+    },
+    {
+      "zh": "涮羊肉",
+      "pinyin": [
+        "Shuàn yángròu"
+      ],
+      "levels": [
+        "food-06"
+      ],
+      "locations": [
+        "food-06.phrases.4"
+      ]
+    },
+    {
+      "zh": "炸酱面",
+      "pinyin": [
+        "Zhájiàngmiàn"
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.phrases.4"
+      ]
+    },
+    {
+      "zh": "点好了吗？",
+      "pinyin": [
+        "Diǎn hǎo le ma?"
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.phrases.1",
+        "food-02.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "熟了，吃吧！",
+      "pinyin": [
+        "Shú le, chī ba!"
+      ],
+      "levels": [
+        "food-06"
+      ],
+      "locations": [
+        "food-06.stages.1.lines.6"
+      ]
+    },
+    {
+      "zh": "熟了吗？",
+      "pinyin": [
+        "Shú le ma?"
+      ],
+      "levels": [
+        "food-06"
+      ],
+      "locations": [
+        "food-06.phrases.7",
+        "food-06.stages.1.lines.5"
+      ]
+    },
+    {
+      "zh": "爸",
+      "pinyin": [
+        "bà"
+      ],
+      "levels": [
+        "ton-01",
+        "ton-02"
+      ],
+      "locations": [
+        "ton-01.stages.2.items.5",
+        "ton-02.phrases.1",
+        "ton-02.stages.0.cards.1.ex.0",
+        "ton-02.stages.0.cards.2.ex.1",
+        "ton-02.stages.2.items.1"
+      ]
+    },
+    {
+      "zh": "爸爸",
+      "pinyin": [
+        "bàba"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.stages.3.items.7"
+      ]
+    },
+    {
+      "zh": "特辣。",
+      "pinyin": [
+        "Tè là."
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.phrases.2"
+      ]
+    },
+    {
+      "zh": "现在几点？",
+      "pinyin": [
+        "Xiànzài jǐ diǎn?"
+      ],
+      "levels": [
+        "bas-04",
+        "bld-03"
+      ],
+      "locations": [
+        "bas-04.phrases.5",
+        "bld-03.phrases.6"
+      ]
+    },
+    {
+      "zh": "班加罗尔",
+      "pinyin": [
+        "Bānjiāluó'ěr"
+      ],
+      "levels": [
+        "fam-03"
+      ],
+      "locations": [
+        "fam-03.stages.1.cards.1.ex.3"
+      ]
+    },
+    {
+      "zh": "用中文怎么说？",
+      "pinyin": [
+        "Yòng Zhōngwén zěnme shuō?"
+      ],
+      "levels": [
+        "bas-02"
+      ],
+      "locations": [
+        "bas-02.phrases.6"
+      ]
+    },
+    {
+      "zh": "看一下。",
+      "pinyin": [
+        "Kàn yíxià."
+      ],
+      "levels": [
+        "snd-01"
+      ],
+      "locations": [
+        "snd-01.phrases.7",
+        "snd-01.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "真的吗？下次做给我们尝尝！",
+      "pinyin": [
+        "Zhēn de ma? Xiàcì zuò gěi wǒmen chángchang!"
+      ],
+      "levels": [
+        "fam-04"
+      ],
+      "locations": [
+        "fam-04.stages.2.lines.6"
+      ]
+    },
+    {
+      "zh": "真香！",
+      "pinyin": [
+        "Zhēn xiāng!"
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.phrases.4"
+      ]
+    },
+    {
+      "zh": "真香！阿姨做的菜太好吃了！",
+      "pinyin": [
+        "Zhēn xiāng! Āyí zuò de cài tài hǎochī le!"
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "睡觉",
+      "pinyin": [
+        "shuìjiào"
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.phrases.7",
+        "ton-08.stages.5.items.2"
+      ]
+    },
+    {
+      "zh": "祝叔叔阿姨身体健康！",
+      "pinyin": [
+        "Zhù Shūshu Āyí shēntǐ jiànkāng!"
+      ],
+      "levels": [
+        "fam-06"
+      ],
+      "locations": [
+        "fam-06.phrases.2",
+        "fam-06.stages.5.items.1"
+      ]
+    },
+    {
+      "zh": "祝您生日快乐！",
+      "pinyin": [
+        "Zhù nín shēngrì kuàilè!"
+      ],
+      "levels": [
+        "fam-10"
+      ],
+      "locations": [
+        "fam-10.phrases.6",
+        "fam-10.stages.5.items.1"
+      ]
+    },
+    {
+      "zh": "第一",
+      "pinyin": [
+        "dìyī"
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.stages.0.cards.2.ex.0",
+        "ton-05.stages.3.items.9"
+      ]
+    },
+    {
+      "zh": "等一下。",
+      "pinyin": [
+        "Děng yíxià."
+      ],
+      "levels": [
+        "ton-05"
+      ],
+      "locations": [
+        "ton-05.phrases.6"
+      ]
+    },
+    {
+      "zh": "米饭",
+      "pinyin": [
+        "Mǐfàn"
+      ],
+      "levels": [
+        "snd-03"
+      ],
+      "locations": [
+        "snd-03.phrases.5"
+      ]
+    },
+    {
+      "zh": "糖",
+      "pinyin": [
+        "táng"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.phrases.4",
+        "ton-03.stages.2.items.2"
+      ]
+    },
+    {
+      "zh": "绿茶",
+      "pinyin": [
+        "Lǜchá"
+      ],
+      "levels": [
+        "snd-03"
+      ],
+      "locations": [
+        "snd-03.phrases.2"
+      ]
+    },
+    {
+      "zh": "老板，洗手间在哪儿？",
+      "pinyin": [
+        "Lǎobǎn, xǐshǒujiān zài nǎr?"
+      ],
+      "levels": [
+        "ton-04"
+      ],
+      "locations": [
+        "ton-04.stages.3.lines.0"
+      ]
+    },
+    {
+      "zh": "老板！",
+      "pinyin": [
+        "Lǎobǎn!"
+      ],
+      "levels": [
+        "ton-04"
+      ],
+      "locations": [
+        "ton-04.phrases.5"
+      ]
+    },
+    {
+      "zh": "聊天。",
+      "pinyin": [
+        "Liáotiān."
+      ],
+      "levels": [
+        "nth-02"
+      ],
+      "locations": [
+        "nth-02.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "能便宜一点儿吗？",
+      "pinyin": [
+        "Néng piányi yìdiǎnr ma?"
+      ],
+      "levels": [
+        "shp-01"
+      ],
+      "locations": [
+        "shp-01.phrases.5",
+        "shp-01.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "能帮我打个电话吗？",
+      "pinyin": [
+        "Néng bāng wǒ dǎ ge diànhuà ma?"
+      ],
+      "levels": [
+        "emg-01"
+      ],
+      "locations": [
+        "emg-01.phrases.4",
+        "emg-01.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "能换个房间吗？",
+      "pinyin": [
+        "Néng huàn ge fángjiān ma?"
+      ],
+      "levels": [
+        "trv-04"
+      ],
+      "locations": [
+        "trv-04.phrases.7"
+      ]
+    },
+    {
+      "zh": "茶",
+      "pinyin": [
+        "chá"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.phrases.7",
+        "ton-03.stages.0.cards.1.ex.0",
+        "ton-03.stages.2.items.6"
+      ]
+    },
+    {
+      "zh": "茶叶",
+      "pinyin": [
+        "cháyè"
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.stages.1.cards.0.ex.0"
+      ]
+    },
+    {
+      "zh": "蘸料在哪儿？",
+      "pinyin": [
+        "Zhànliào zài nǎr?"
+      ],
+      "levels": [
+        "food-06"
+      ],
+      "locations": [
+        "food-06.phrases.3",
+        "food-06.stages.4.items.2"
+      ]
+    },
+    {
+      "zh": "行行行，喝茶也行！",
+      "pinyin": [
+        "Xíng xíng xíng, hē chá yě xíng!"
+      ],
+      "levels": [
+        "fam-06"
+      ],
+      "locations": [
+        "fam-06.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "袋子，要吗？",
+      "pinyin": [
+        "Dàizi, yào ma?"
+      ],
+      "levels": [
+        "bas-02"
+      ],
+      "locations": [
+        "bas-02.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "西红柿炒鸡蛋",
+      "pinyin": [
+        "Xīhóngshì chǎo jīdàn"
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.phrases.8"
+      ]
+    },
+    {
+      "zh": "要。",
+      "pinyin": [
+        "Yào."
+      ],
+      "levels": [
+        "nth-01"
+      ],
+      "locations": [
+        "nth-01.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "要什么锅底？",
+      "pinyin": [
+        "Yào shénme guōdǐ?"
+      ],
+      "levels": [
+        "food-06"
+      ],
+      "locations": [
+        "food-06.stages.1.lines.0"
+      ]
+    },
+    {
+      "zh": "要冰的。",
+      "pinyin": [
+        "Yào bīng de."
+      ],
+      "levels": [
+        "food-04"
+      ],
+      "locations": [
+        "food-04.phrases.7",
+        "food-04.stages.2.lines.3",
+        "food-04.stages.5.items.1"
+      ]
+    },
+    {
+      "zh": "要冰的还是常温的？",
+      "pinyin": [
+        "Yào bīng de háishi chángwēn de?"
+      ],
+      "levels": [
+        "food-04"
+      ],
+      "locations": [
+        "food-04.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "要常温的。",
+      "pinyin": [
+        "Yào chángwēn de."
+      ],
+      "levels": [
+        "food-04"
+      ],
+      "locations": [
+        "food-04.phrases.3"
+      ]
+    },
+    {
+      "zh": "要换拖鞋吗？",
+      "pinyin": [
+        "Yào huàn tuōxié ma?"
+      ],
+      "levels": [
+        "nth-01"
+      ],
+      "locations": [
+        "nth-01.phrases.1",
+        "nth-01.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "要等二十分钟。",
+      "pinyin": [
+        "Yào děng èrshí fēnzhōng."
+      ],
+      "levels": [
+        "food-01"
+      ],
+      "locations": [
+        "food-01.phrases.5",
+        "food-01.stages.1.lines.4"
+      ]
+    },
+    {
+      "zh": "要等多久？",
+      "pinyin": [
+        "Yào děng duōjiǔ?"
+      ],
+      "levels": [
+        "food-01"
+      ],
+      "locations": [
+        "food-01.phrases.4",
+        "food-01.stages.1.lines.3",
+        "food-01.stages.4.items.1"
+      ]
+    },
+    {
+      "zh": "要鸳鸯锅。",
+      "pinyin": [
+        "Yào yuānyāng guō."
+      ],
+      "levels": [
+        "food-06"
+      ],
+      "locations": [
+        "food-06.phrases.1",
+        "food-06.stages.1.lines.1",
+        "food-06.stages.4.items.1"
+      ]
+    },
+    {
+      "zh": "认识",
+      "pinyin": [
+        "rènshi"
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.phrases.9",
+        "ton-08.stages.2.items.9"
+      ]
+    },
+    {
+      "zh": "请先安检。",
+      "pinyin": [
+        "Qǐng xiān ānjiǎn."
+      ],
+      "levels": [
+        "trv-03"
+      ],
+      "locations": [
+        "trv-03.phrases.7"
+      ]
+    },
+    {
+      "zh": "请再说一遍。",
+      "pinyin": [
+        "Qǐng zài shuō yí biàn."
+      ],
+      "levels": [
+        "bas-02",
+        "trv-02"
+      ],
+      "locations": [
+        "bas-02.phrases.2",
+        "trv-02.phrases.7",
+        "trv-02.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "请出示护照。",
+      "pinyin": [
+        "Qǐng chūshì hùzhào."
+      ],
+      "levels": [
+        "trv-04"
+      ],
+      "locations": [
+        "trv-04.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "请去这个地方。",
+      "pinyin": [
+        "Qǐng qù zhège dìfang."
+      ],
+      "levels": [
+        "trv-01"
+      ],
+      "locations": [
+        "trv-01.phrases.1",
+        "trv-01.stages.1.lines.1"
+      ]
+    },
+    {
+      "zh": "请在这儿停。",
+      "pinyin": [
+        "Qǐng zài zhèr tíng."
+      ],
+      "levels": [
+        "trv-01"
+      ],
+      "locations": [
+        "trv-01.phrases.4"
+      ]
+    },
+    {
+      "zh": "请帮帮我。",
+      "pinyin": [
+        "Qǐng bāng bāng wǒ."
+      ],
+      "levels": [
+        "emg-01"
+      ],
+      "locations": [
+        "emg-01.phrases.0",
+        "emg-01.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "请帮我叫救护车。",
+      "pinyin": [
+        "Qǐng bāng wǒ jiào jiùhùchē."
+      ],
+      "levels": [
+        "emg-02"
+      ],
+      "locations": [
+        "emg-02.phrases.6"
+      ]
+    },
+    {
+      "zh": "请帮我报警。",
+      "pinyin": [
+        "Qǐng bāng wǒ bàojǐng."
+      ],
+      "levels": [
+        "emg-01"
+      ],
+      "locations": [
+        "emg-01.phrases.6"
+      ]
+    },
+    {
+      "zh": "请帮我给朋友打电话。",
+      "pinyin": [
+        "Qǐng bāng wǒ gěi péngyou dǎ diànhuà."
+      ],
+      "levels": [
+        "emg-01"
+      ],
+      "locations": [
+        "emg-01.stages.2.lines.5"
+      ]
+    },
+    {
+      "zh": "请帮我翻译一下。",
+      "pinyin": [
+        "Qǐng bāng wǒ fānyì yíxià."
+      ],
+      "levels": [
+        "bas-02"
+      ],
+      "locations": [
+        "bas-02.phrases.7"
+      ]
+    },
+    {
+      "zh": "请打110。",
+      "pinyin": [
+        "Qǐng dǎ yāo yāo líng."
+      ],
+      "levels": [
+        "emg-01"
+      ],
+      "locations": [
+        "emg-01.phrases.7"
+      ]
+    },
+    {
+      "zh": "请打120。",
+      "pinyin": [
+        "Qǐng dǎ yāo èr líng."
+      ],
+      "levels": [
+        "emg-02"
+      ],
+      "locations": [
+        "emg-02.phrases.7"
+      ]
+    },
+    {
+      "zh": "请稍等。",
+      "pinyin": [
+        "Qǐng shāo děng."
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.phrases.9"
+      ]
+    },
+    {
+      "zh": "请等一下。",
+      "pinyin": [
+        "Qǐng děng yíxià."
+      ],
+      "levels": [
+        "shp-02"
+      ],
+      "locations": [
+        "shp-02.phrases.6",
+        "shp-02.stages.1.lines.4"
+      ]
+    },
+    {
+      "zh": "请说慢一点儿。",
+      "pinyin": [
+        "Qǐng shuō màn yìdiǎnr."
+      ],
+      "levels": [
+        "bas-02",
+        "frd-01",
+        "nth-02"
+      ],
+      "locations": [
+        "bas-02.phrases.1",
+        "bas-02.stages.2.lines.2",
+        "frd-01.phrases.7",
+        "frd-01.stages.1.lines.4",
+        "nth-02.stages.1.cards.2.ex.0"
+      ]
+    },
+    {
+      "zh": "请说普通话。",
+      "pinyin": [
+        "Qǐng shuō pǔtōnghuà."
+      ],
+      "levels": [
+        "nth-02"
+      ],
+      "locations": [
+        "nth-02.phrases.7",
+        "nth-02.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "请进。",
+      "pinyin": [
+        "Qǐng jìn."
+      ],
+      "levels": [
+        "snd-02"
+      ],
+      "locations": [
+        "snd-02.phrases.1",
+        "snd-02.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "请问",
+      "pinyin": [
+        "qǐngwèn"
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.phrases.3",
+        "ton-08.stages.0.cards.0.ex.3",
+        "ton-08.stages.2.items.2"
+      ]
+    },
+    {
+      "zh": "请问，往哪个方向？",
+      "pinyin": [
+        "Qǐngwèn, wǎng nǎge fāngxiàng?"
+      ],
+      "levels": [
+        "trv-03"
+      ],
+      "locations": [
+        "trv-03.phrases.6"
+      ]
+    },
+    {
+      "zh": "请问，您要点什么？",
+      "pinyin": [
+        "Qǐngwèn, nín yào diǎn shénme?"
+      ],
+      "levels": [
+        "ton-08"
+      ],
+      "locations": [
+        "ton-08.stages.4.lines.0"
+      ]
+    },
+    {
+      "zh": "请问，洗手间在哪儿？",
+      "pinyin": [
+        "Qǐngwèn, xǐshǒujiān zài nǎr?"
+      ],
+      "levels": [
+        "trv-02"
+      ],
+      "locations": [
+        "trv-02.phrases.0",
+        "trv-02.stages.1.lines.0"
+      ]
+    },
+    {
+      "zh": "谢谢",
+      "pinyin": [
+        "Xièxie",
+        "xièxie"
+      ],
+      "levels": [
+        "ton-06",
+        "ton-08"
+      ],
+      "locations": [
+        "ton-06.stages.0.cards.1.ex.3",
+        "ton-06.stages.3.items.6",
+        "ton-08.stages.0.cards.2.ex.3",
+        "ton-08.stages.5.items.5"
+      ]
+    },
+    {
+      "zh": "谢谢，请帮我确认。",
+      "pinyin": [
+        "Xièxie, qǐng bāng wǒ quèrèn."
+      ],
+      "levels": [
+        "emg-02"
+      ],
+      "locations": [
+        "emg-02.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "谢谢！",
+      "pinyin": [
+        "Xièxie!"
+      ],
+      "levels": [
+        "ton-04",
+        "ton-06",
+        "ton-08",
+        "bas-01",
+        "bas-02",
+        "trv-02"
+      ],
+      "locations": [
+        "ton-04.stages.3.lines.2",
+        "ton-06.phrases.0",
+        "ton-08.stages.4.lines.3",
+        "bas-01.phrases.2",
+        "bas-01.stages.1.lines.3",
+        "bas-02.stages.2.lines.4",
+        "trv-02.stages.1.lines.4"
+      ]
+    },
+    {
+      "zh": "谢谢！我们先看看。",
+      "pinyin": [
+        "Xièxie! Wǒmen xiān kànkan."
+      ],
+      "levels": [
+        "food-01"
+      ],
+      "locations": [
+        "food-01.stages.1.lines.7"
+      ]
+    },
+    {
+      "zh": "谢谢。",
+      "pinyin": [
+        "Xièxie."
+      ],
+      "levels": [
+        "snd-02"
+      ],
+      "locations": [
+        "snd-02.phrases.2"
+      ]
+    },
+    {
+      "zh": "谢谢你！下次我请。",
+      "pinyin": [
+        "Xièxie nǐ! Xiàcì wǒ qǐng."
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.stages.2.lines.4"
+      ]
+    },
+    {
+      "zh": "谢谢叔叔！",
+      "pinyin": [
+        "Xièxie Shūshu!"
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.stages.2.lines.6"
+      ]
+    },
+    {
+      "zh": "谢谢叔叔！我不喝酒，以茶代酒。",
+      "pinyin": [
+        "Xièxie Shūshu! Wǒ bù hē jiǔ, yǐ chá dài jiǔ."
+      ],
+      "levels": [
+        "fam-06"
+      ],
+      "locations": [
+        "fam-06.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "谢谢师傅！",
+      "pinyin": [
+        "Xièxie shīfu!"
+      ],
+      "levels": [
+        "trv-01"
+      ],
+      "locations": [
+        "trv-01.phrases.7",
+        "trv-01.stages.1.lines.5"
+      ]
+    },
+    {
+      "zh": "谢谢您请客！",
+      "pinyin": [
+        "Xièxie nín qǐngkè!"
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.phrases.9",
+        "food-08.stages.5.items.2"
+      ]
+    },
+    {
+      "zh": "谢谢款待。",
+      "pinyin": [
+        "Xièxie kuǎndài."
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.phrases.1"
+      ]
+    },
+    {
+      "zh": "贼好！",
+      "pinyin": [
+        "Zéi hǎo!"
+      ],
+      "levels": [
+        "nth-02"
+      ],
+      "locations": [
+        "nth-02.phrases.3"
+      ]
+    },
+    {
+      "zh": "走吧！",
+      "pinyin": [
+        "Zǒu ba!"
+      ],
+      "levels": [
+        "ton-06"
+      ],
+      "locations": [
+        "ton-06.phrases.8",
+        "ton-06.stages.0.cards.2.ex.1"
+      ]
+    },
+    {
+      "zh": "跑",
+      "pinyin": [
+        "Pǎo"
+      ],
+      "levels": [
+        "snd-01"
+      ],
+      "locations": [
+        "snd-01.phrases.1"
+      ]
+    },
+    {
+      "zh": "路上小心，有空来玩儿！",
+      "pinyin": [
+        "Lùshang xiǎoxīn, yǒu kòng lái wánr!"
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.stages.2.lines.8"
+      ]
+    },
+    {
+      "zh": "路上小心。",
+      "pinyin": [
+        "Lùshang xiǎoxīn."
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.phrases.8"
+      ]
+    },
+    {
+      "zh": "路上累了吧？",
+      "pinyin": [
+        "Lùshang lèi le ba?"
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.phrases.8",
+        "fam-01.stages.2.lines.6"
+      ]
+    },
+    {
+      "zh": "躺",
+      "pinyin": [
+        "tǎng"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.stages.2.items.3"
+      ]
+    },
+    {
+      "zh": "还可以。",
+      "pinyin": [
+        "Hái kěyǐ."
+      ],
+      "levels": [
+        "food-07"
+      ],
+      "locations": [
+        "food-07.phrases.7"
+      ]
+    },
+    {
+      "zh": "还要别的吗？",
+      "pinyin": [
+        "Hái yào bié de ma?"
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.phrases.7"
+      ]
+    },
+    {
+      "zh": "这个不错，很多人点。",
+      "pinyin": [
+        "Zhège búcuò, hěn duō rén diǎn."
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "这个多少钱？",
+      "pinyin": [
+        "Zhège duōshao qián?"
+      ],
+      "levels": [
+        "shp-01"
+      ],
+      "locations": [
+        "shp-01.phrases.0",
+        "shp-01.stages.1.lines.0"
+      ]
+    },
+    {
+      "zh": "这个是什么？",
+      "pinyin": [
+        "Zhège shì shénme?"
+      ],
+      "levels": [
+        "food-02"
+      ],
+      "locations": [
+        "food-02.phrases.4"
+      ]
+    },
+    {
+      "zh": "这个有肉吗？",
+      "pinyin": [
+        "Zhège yǒu ròu ma?"
+      ],
+      "levels": [
+        "food-03"
+      ],
+      "locations": [
+        "food-03.phrases.5"
+      ]
+    },
+    {
+      "zh": "这个菜有花生吗？",
+      "pinyin": [
+        "Zhège cài yǒu huāshēng ma?"
+      ],
+      "levels": [
+        "emg-02"
+      ],
+      "locations": [
+        "emg-02.phrases.4",
+        "emg-02.stages.2.lines.2"
+      ]
+    },
+    {
+      "zh": "这家地三鲜没有肉汤和猪油。你想吃什么？",
+      "pinyin": [
+        "Zhè jiā dìsānxiān méiyǒu ròutāng hé zhūyóu. Nǐ xiǎng chī shénme?"
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.stages.1.lines.0"
+      ]
+    },
+    {
+      "zh": "这是什么意思？",
+      "pinyin": [
+        "Zhè shì shénme yìsi?"
+      ],
+      "levels": [
+        "bas-02"
+      ],
+      "locations": [
+        "bas-02.phrases.5"
+      ]
+    },
+    {
+      "zh": "这是印度红茶。",
+      "pinyin": [
+        "Zhè shì Yìndù hóngchá."
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.phrases.4"
+      ]
+    },
+    {
+      "zh": "这是您的房卡。",
+      "pinyin": [
+        "Zhè shì nín de fángkǎ."
+      ],
+      "levels": [
+        "bas-01"
+      ],
+      "locations": [
+        "bas-01.stages.1.lines.2"
+      ]
+    },
+    {
+      "zh": "这是我的地址。",
+      "pinyin": [
+        "Zhè shì wǒ de dìzhǐ."
+      ],
+      "levels": [
+        "emg-01"
+      ],
+      "locations": [
+        "emg-01.phrases.5"
+      ]
+    },
+    {
+      "zh": "这是我的护照。",
+      "pinyin": [
+        "Zhè shì wǒ de hùzhào."
+      ],
+      "levels": [
+        "trv-04"
+      ],
+      "locations": [
+        "trv-04.phrases.1",
+        "trv-04.stages.1.lines.3"
+      ]
+    },
+    {
+      "zh": "这是给叔叔的酒。",
+      "pinyin": [
+        "Zhè shì gěi Shūshu de jiǔ."
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.phrases.2"
+      ]
+    },
+    {
+      "zh": "这是给您的。",
+      "pinyin": [
+        "Zhè shì gěi nín de."
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.phrases.0"
+      ]
+    },
+    {
+      "zh": "这是给阿姨的茶叶。",
+      "pinyin": [
+        "Zhè shì gěi Āyí de cháyè."
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.phrases.3"
+      ]
+    },
+    {
+      "zh": "这是茶。",
+      "pinyin": [
+        "Zhè shì chá."
+      ],
+      "levels": [
+        "snd-02"
+      ],
+      "locations": [
+        "snd-02.phrases.6"
+      ]
+    },
+    {
+      "zh": "这是茶吗？",
+      "pinyin": [
+        "Zhè shì chá ma?"
+      ],
+      "levels": [
+        "snd-02"
+      ],
+      "locations": [
+        "snd-02.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "这是莉莉。",
+      "pinyin": [
+        "Zhè shì Lìli."
+      ],
+      "levels": [
+        "frd-01"
+      ],
+      "locations": [
+        "frd-01.stages.1.lines.0"
+      ]
+    },
+    {
+      "zh": "进来吧。",
+      "pinyin": [
+        "Jìnlái ba."
+      ],
+      "levels": [
+        "nth-01"
+      ],
+      "locations": [
+        "nth-01.stages.2.lines.5"
+      ]
+    },
+    {
+      "zh": "远吗？",
+      "pinyin": [
+        "Yuǎn ma?"
+      ],
+      "levels": [
+        "trv-02"
+      ],
+      "locations": [
+        "trv-02.phrases.6"
+      ]
+    },
+    {
+      "zh": "送钟",
+      "pinyin": [
+        "sòng zhōng"
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.stages.1.cards.1.ex.0"
+      ]
+    },
+    {
+      "zh": "那我就不客气了，谢谢阿姨！",
+      "pinyin": [
+        "Nà wǒ jiù bú kèqi le, xièxie Āyí!"
+      ],
+      "levels": [
+        "fam-09"
+      ],
+      "locations": [
+        "fam-09.phrases.7",
+        "fam-09.stages.2.lines.5",
+        "fam-09.stages.5.items.0"
+      ]
+    },
+    {
+      "zh": "那我就收下了，谢谢你！",
+      "pinyin": [
+        "Nà wǒ jiù shōuxià le, xièxie nǐ!"
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.phrases.7",
+        "fam-02.stages.2.lines.3"
+      ]
+    },
+    {
+      "zh": "酒",
+      "pinyin": [
+        "jiǔ"
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.stages.1.cards.0.ex.2"
+      ]
+    },
+    {
+      "zh": "钱",
+      "pinyin": [
+        "qián"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.phrases.8",
+        "ton-03.stages.0.cards.1.ex.1"
+      ]
+    },
+    {
+      "zh": "银行",
+      "pinyin": [
+        "yínháng"
+      ],
+      "levels": [
+        "ton-07"
+      ],
+      "locations": [
+        "ton-07.stages.2.items.7"
+      ]
+    },
+    {
+      "zh": "锅包肉",
+      "pinyin": [
+        "Guōbāoròu"
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.phrases.6"
+      ]
+    },
+    {
+      "zh": "阿姨，您好！",
+      "pinyin": [
+        "Āyí, nín hǎo!"
+      ],
+      "levels": [
+        "nth-01"
+      ],
+      "locations": [
+        "nth-01.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "阿姨，您歇着吧。",
+      "pinyin": [
+        "Āyí, nín xiē zhe ba."
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.phrases.3",
+        "fam-08.stages.5.items.0"
+      ]
+    },
+    {
+      "zh": "阿姨，您辛苦了！",
+      "pinyin": [
+        "Āyí, nín xīnkǔ le!"
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.stages.2.lines.6"
+      ]
+    },
+    {
+      "zh": "阿姨，我来帮您！",
+      "pinyin": [
+        "Āyí, wǒ lái bāng nín!"
+      ],
+      "levels": [
+        "fam-08"
+      ],
+      "locations": [
+        "fam-08.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "阿姨，这是给您的。",
+      "pinyin": [
+        "Āyí, zhè shì gěi nín de."
+      ],
+      "levels": [
+        "fam-02"
+      ],
+      "locations": [
+        "fam-02.stages.2.lines.0"
+      ]
+    },
+    {
+      "zh": "阿姨做的菜太好吃了！",
+      "pinyin": [
+        "Āyí zuò de cài tài hǎochī le!"
+      ],
+      "levels": [
+        "fam-05"
+      ],
+      "locations": [
+        "fam-05.phrases.5",
+        "fam-05.stages.5.items.1"
+      ]
+    },
+    {
+      "zh": "阿姨好！",
+      "pinyin": [
+        "Āyí hǎo!"
+      ],
+      "levels": [
+        "fam-01"
+      ],
+      "locations": [
+        "fam-01.phrases.0",
+        "fam-01.stages.2.lines.1"
+      ]
+    },
+    {
+      "zh": "阿姨看起来真年轻！",
+      "pinyin": [
+        "Āyí kànqǐlai zhēn niánqīng!"
+      ],
+      "levels": [
+        "fam-07"
+      ],
+      "locations": [
+        "fam-07.phrases.1",
+        "fam-07.stages.2.lines.5",
+        "fam-07.stages.4.items.1"
+      ]
+    },
+    {
+      "zh": "雨",
+      "pinyin": [
+        "yǔ"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.phrases.1",
+        "ton-03.stages.0.cards.3.ex.3",
+        "ton-03.stages.2.items.1"
+      ]
+    },
+    {
+      "zh": "零。",
+      "pinyin": [
+        "Líng."
+      ],
+      "levels": [
+        "bas-04"
+      ],
+      "locations": [
+        "bas-04.phrases.3"
+      ]
+    },
+    {
+      "zh": "需要袋子吗？",
+      "pinyin": [
+        "Xūyào dàizi ma?"
+      ],
+      "levels": [
+        "shp-02"
+      ],
+      "locations": [
+        "shp-02.phrases.7"
+      ]
+    },
+    {
+      "zh": "饭",
+      "pinyin": [
+        "Fàn"
+      ],
+      "levels": [
+        "snd-03"
+      ],
+      "locations": [
+        "snd-03.stages.1.cards.2.ex.0"
+      ]
+    },
+    {
+      "zh": "馒头",
+      "pinyin": [
+        "Mántou"
+      ],
+      "levels": [
+        "food-05"
+      ],
+      "locations": [
+        "food-05.phrases.3"
+      ]
+    },
+    {
+      "zh": "马",
+      "pinyin": [
+        "mǎ"
+      ],
+      "levels": [
+        "ton-01"
+      ],
+      "locations": [
+        "ton-01.phrases.2",
+        "ton-01.stages.0.cards.1.ex.2",
+        "ton-01.stages.2.items.1"
+      ]
+    },
+    {
+      "zh": "骂",
+      "pinyin": [
+        "mà"
+      ],
+      "levels": [
+        "ton-01"
+      ],
+      "locations": [
+        "ton-01.phrases.3",
+        "ton-01.stages.0.cards.1.ex.3",
+        "ton-01.stages.2.items.2"
+      ]
+    },
+    {
+      "zh": "高",
+      "pinyin": [
+        "gāo"
+      ],
+      "levels": [
+        "ton-02"
+      ],
+      "locations": [
+        "ton-02.stages.2.items.7"
+      ]
+    },
+    {
+      "zh": "鱼",
+      "pinyin": [
+        "yú"
+      ],
+      "levels": [
+        "ton-03"
+      ],
+      "locations": [
+        "ton-03.phrases.0",
+        "ton-03.stages.0.cards.3.ex.2",
+        "ton-03.stages.2.items.0"
+      ]
+    },
+    {
+      "zh": "麻",
+      "pinyin": [
+        "má"
+      ],
+      "levels": [
+        "ton-01"
+      ],
+      "locations": [
+        "ton-01.phrases.1",
+        "ton-01.stages.0.cards.1.ex.1",
+        "ton-01.stages.2.items.3"
+      ]
+    },
+    {
+      "zh": "麻烦打包。",
+      "pinyin": [
+        "Máfan dǎbāo."
+      ],
+      "levels": [
+        "food-08"
+      ],
+      "locations": [
+        "food-08.phrases.4",
+        "food-08.stages.2.lines.5"
+      ]
+    },
+    {
+      "zh": "麻烦拿一下菜单。",
+      "pinyin": [
+        "Máfan ná yíxià càidān."
+      ],
+      "levels": [
+        "food-01"
+      ],
+      "locations": [
+        "food-01.phrases.6"
+      ]
+    }
+  ]
+}

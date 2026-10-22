@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="hi-Latn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Mandarin Gurukul — Chinese bolna seekho, khel khel mein</title>
+  <meta name="description" content="Mandarin bolna aur samajhna: tone ki rangeen lines, Hinglish hints, aur China ki asli situations.">
+  <meta name="theme-color" content="#fffefa">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header id="topbar"></header>
+  <a class="skip-link" href="#app">Lesson par jao</a>
+  <main id="app" tabindex="-1"></main>
+  <nav id="bottom-nav" aria-label="Main navigation"></nav>
+  <!-- Engine (load order CRITICAL: core → pinyin → deva → data-core → view → voice → games) -->
+  <script src="core.js"></script>
+  <script src="pinyin.js"></script>
+  <script src="deva.js"></script>
+  <script src="data-core.js"></script>
+  <script src="photos.js"></script>
+  <script src="pyview.js"></script>
+  <script src="voice.js"></script>
+  <script src="audio-manifest.js"></script>
+  <script src="games.js"></script>
+  <script src="games-talk.js"></script>
+  <!-- Content (har track apni file mein — naya level? bas data file mein add karo) -->
+  <script src="data-tones.js"></script>
+  <script src="data-sounds.js"></script>
+  <script src="data-basics.js"></script>
+  <script src="data-basics-extra.js"></script>
+  <script src="data-family.js"></script>
+  <script src="data-food.js"></script>
+  <script src="data-friends.js"></script>
+  <script src="data-travel.js"></script>
+  <script src="data-shopping.js"></script>
+  <script src="data-emergency.js"></script>
+  <script src="data-builder.js"></script>
+  <script src="data-north.js"></script>
+  <!-- Screens (last — boot.js route karta hai) -->
+  <script src="app.js"></script>
+  <script src="app-extra.js"></script>
+  <script src="practice.js"></script>
+  <script src="boot.js"></script>
+</body>
+</html>
